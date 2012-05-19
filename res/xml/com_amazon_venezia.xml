@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon_statusbar">@drawable/icon_statusbar_amazon_appstore</item>
+</resource-redirections>

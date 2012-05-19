@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/qa_popup">@drawable/popup</item>
+    <item name="drawable/qa_action_item_selected">@drawable/popup_option_selected</item>
+    <item name="drawable/qa_arrow_down">@drawable/popup_triangle_bottom</item>
+    <item name="drawable/qa_arrow_up">@drawable/popup_triangle_up</item>
+    <item name="drawable/bg_appwidget_error">@drawable/bg_appwidget_error</item>
+    <item name="drawable/btn_add_item">@drawable/btn_add_item</item>
+    <item name="drawable/btn_delete_item">@drawable/btn_delete_item</item>
+    <item name="drawable/btn_info_item">@drawable/btn_info_item</item>
+    <item name="drawable/btn_pin_item">@drawable/btn_pin_item</item>
+    <item name="drawable/btn_swap_item">@drawable/btn_swap_item</item>
+    <item name="drawable/camera_crop_height">@drawable/camera_crop_height</item>
+    <item name="drawable/camera_crop_width">@drawable/camera_crop_width</item>
+    <item name="drawable/qa_actions_delete">@drawable/qa_actions_delete</item>
+    <item name="drawable/qa_actions_edit">@drawable/qa_actions_edit</item>
+    <item name="drawable/qa_actions_link">@drawable/qa_actions_link</item>
+    <item name="drawable/qa_actions_manage">@drawable/qa_actions_manage</item>
+    <item name="drawable/qa_actions_rate">@drawable/qa_actions_rate</item>
+    <item name="drawable/qa_actions_search">@drawable/qa_actions_search</item>
+    <item name="drawable/qa_actions_share">@drawable/qa_actions_share</item>
+    <item name="drawable/timepicker_down_disabled_focused">@drawable/numberpicker_down_disabled_focused</item>
+    <item name="drawable/timepicker_down_pressed">@drawable/numberpicker_down_pressed</item>
+    <item name="drawable/timepicker_down_selected">@drawable/numberpicker_down_selected</item>
+    <item name="drawable/timepicker_input_pressed">@drawable/numberpicker_input_pressed</item>
+    <item name="drawable/timepicker_input_selected">@drawable/numberpicker_input_selected</item>
+    <item name="drawable/timepicker_up_disabled_focused">@drawable/numberpicker_up_disabled_focused</item>
+    <item name="drawable/timepicker_up_pressed">@drawable/numberpicker_up_pressed</item>
+    <item name="drawable/timepicker_up_selected">@drawable/numberpicker_up_selected</item>
+    <item name="drawable/timepicker_down_disabled">@drawable/numberpicker_down_disabled</item>
+    <item name="drawable/timepicker_down_normal">@drawable/numberpicker_down_normal</item>
+    <item name="drawable/timepicker_input_disabled">@drawable/numberpicker_input_disabled</item>
+    <item name="drawable/timepicker_input_normal">@drawable/numberpicker_input_normal</item>
+    <item name="drawable/timepicker_up_disabled">@drawable/numberpicker_up_disabled</item>
+    <item name="drawable/timepicker_up_normal">@drawable/numberpicker_up_normal</item>
+</resource-redirections>

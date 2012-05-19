@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/com_twitter_android_appwidget_bg_light</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/com_twitter_android_appwidget_bg_focus_light</item>
+    <item name="drawable/appwidget_bg_press">@drawable/com_twitter_android_appwidget_bg_press_light</item>
+    <item name="drawable/appwidget_small_bg_default">@drawable/appwidget_bg_light</item>
+    <item name="drawable/appwidget_small_bg_pressed">@drawable/appwidget_bg_press_light</item>
+    <item name="drawable/appwidget_small_bg_selected">@drawable/appwidget_bg_focus_light</item>
+    <item name="drawable/appwidget_top_white">@drawable/com_android_providers_calendar_appwidget_calendar_bgtop_blue</item>
+    <item name="drawable/ic_left_default">@drawable/ic_previous_widget_default</item>
+    <item name="drawable/ic_left_disabled">@drawable/ic_previous_widget_disabled</item>
+    <item name="drawable/ic_left_pressed">@drawable/ic_previous_widget_pressed</item>
+    <item name="drawable/ic_left_selected">@drawable/ic_previous_widget_selected</item>
+    <item name="drawable/ic_right_default">@drawable/ic_next_widget_default</item>
+    <item name="drawable/ic_right_disabled">@drawable/ic_next_widget_disabled</item>
+    <item name="drawable/ic_right_pressed">@drawable/ic_next_widget_pressed</item>
+    <item name="drawable/ic_right_selected">@drawable/ic_next_widget_selected</item>
+    <item name="drawable/ic_next_widget_default">@drawable/ic_next_widget_default</item>
+    <item name="drawable/ic_next_widget_disabled">@drawable/ic_next_widget_disabled</item>
+    <item name="drawable/ic_next_widget_pressed">@drawable/ic_next_widget_pressed</item>
+    <item name="drawable/ic_next_widget_selected">@drawable/ic_next_widget_selected</item>
+    <item name="drawable/ic_prev_widget_default">@drawable/ic_prev_widget_default</item>
+    <item name="drawable/ic_prev_widget_disabled">@drawable/ic_prev_widget_disabled</item>
+    <item name="drawable/ic_prev_widget_pressed">@drawable/ic_prev_widget_pressed</item>
+    <item name="drawable/ic_prev_widget_selected">@drawable/ic_prev_widget_selected</item>
+</resource-redirections>

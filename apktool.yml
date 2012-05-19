@@ -1,0 +1,6 @@
+version: 1.4.1
+apkFileName: rabbitfoot.apk
+isFrameworkApk: true
+usesFramework:
+  ids:
+  - 1

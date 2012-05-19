@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/class_zero_background">@drawable/class_zero_background</item>
+    <item name="drawable/text_color_red">@drawable/text_color_red</item>
+    <item name="drawable/text_color_black">@drawable/text_color_black</item>
+    <item name="drawable/text_color_offwhite">@drawable/text_color_offwhite</item>
+    <item name="drawable/text_color_blue">@drawable/text_color_blue</item>
+    <item name="style/MmsHoloTheme">@android:style/Theme.Holo</item>
+    <item name="style/TextAppearance.Mms">@style/TextAppearance.Mms</item>
+    <item name="color/text_hairline">@color/arcee_maincolor</item>
+    <item name="color/list_background">@color/black</item>
+    <item name="color/message_count_color">@color/message_count_color</item>
+    <item name="color/timestamp_color">@color/timestamp_color</item>
+    <item name="color/unread_bgcolor">@color/unread_bgcolor</item>
+    <item name="color/read_bgcolor">@color/black</item>
+    <item name="color/action_bar_button_text_color">@color/arcee_maincolor</item>
+    <item name="drawable/ic_launcher_smsmms">@drawable/mms_ic_launcher_smsmms</item>
+    <item name="drawable/ic_mms_duration">@drawable/mms_ic_mms_duration</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/mms_list_pressed_holo_light</item>
+    <item name="drawable/list_selected_holo_light">@drawable/mms_list_selected_holo_light</item>
+    <item name="drawable/attachment_editor_bg">@drawable/com_android_mms_attachment_editor_bg</item>
+    <item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+    <item name="drawable/ic_mms_duration">@drawable/com_android_mms_ic_mms_duration</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
+    <item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>
+    <item name="drawable/list_selector_background_selected">@drawable/com_android_mms_list_selector_background_selected</item>
+</resource-redirections>

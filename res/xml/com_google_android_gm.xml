@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ab_bottom_solid_light_holo">@drawable/gmail_ab_bottom_solid_light_holo</item>
+    <item name="drawable/ab_solid_light_holo">@drawable/gmail_ab_solid_light_holo</item>
+    <item name="drawable/ab_stacked_solid_light_holo">@drawable/gmail_ab_stacked_solid_light_holo</item>
+    <item name="drawable/btn_star_off_focused_gmail_holo_light">@drawable/gmail_btn_star_off_focused_gmail_holo_light</item>
+    <item name="drawable/btn_star_off_pressed_gmail_holo_light">@drawable/gmail_btn_star_off_pressed_gmail_holo_light</item>
+    <item name="drawable/btn_star_on_convo_holo_light">@drawable/gmail_btn_star_on_convo_holo_light</item>
+    <item name="drawable/btn_star_on_focused_gmail_holo_light">@drawable/gmail_btn_star_on_focused_gmail_holo_light</item>
+    <item name="drawable/btn_star_on_normal_gmail_holo_light">@drawable/gmail_btn_star_on_normal_gmail_holo_light</item>
+    <item name="drawable/btn_star_on_pressed_gmail_holo_light">@drawable/gmail_btn_star_on_pressed_gmail_holo_light</item>
+    <item name="drawable/chip_background">@drawable/gmail_chip_background</item>
+    <item name="drawable/chip_background_invalid">@drawable/gmail_chip_background_invalid</item>
+    <item name="drawable/chip_background_selected">@drawable/gmail_chip_background_selected</item>
+    <item name="drawable/header_bg_gmail_widget_holo">@drawable/gmail_header_bg_gmail_widget_holo</item>
+    <item name="drawable/header_convo_view_sender_bg_holo">@drawable/gmail_header_convo_view_sender_bg_holo</item>
+    <item name="drawable/ic_email_caret_double_important_unread">@drawable/gmail_ic_email_caret_double_important_unread</item>
+    <item name="drawable/ic_email_caret_none_important_unread">@drawable/gmail_ic_email_caret_none_important_unread</item>
+    <item name="drawable/ic_email_caret_single">@drawable/gmail_ic_email_caret_single</item>
+    <item name="drawable/ic_email_caret_single_important_unread">@drawable/gmail_ic_email_caret_single_important_unread</item>
+    <item name="drawable/list_activated_holo">@drawable/gmail_list_activated_holo</item>
+    <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/gmail_list_div_top_btm_gmail_widget_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/gmail_list_focused_holo</item>
+    <item name="drawable/list_pressed_holo">@drawable/gmail_list_pressed_holo</item>
+    <item name="drawable/list_selected_holo">@drawable/gmail_list_selected_holo</item>
+    <item name="drawable/panel_undo_holo">@drawable/gmail_panel_undo_holo</item>
+    <item name="drawable/presence_away">@drawable/gmail_presence_away</item>
+</resource-redirections>

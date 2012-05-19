@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/bg_vidcontrol">@drawable/gallery2_bg_vidcontrol</item>
+    <item name="drawable/camera_crop_holo">@drawable/gallery2_camera_crop_holo</item>
+    <item name="drawable/frame_overlay_gallery_camera">@drawable/gallery2_frame_overlay_gallery_camera</item>
+    <item name="drawable/frame_overlay_gallery_folder">@drawable/gallery2_frame_overlay_gallery_folder</item>
+    <item name="drawable/frame_overlay_gallery_picasa">@drawable/gallery2_frame_overlay_gallery_picasa</item>
+    <item name="drawable/frame_overlay_gallery_ptp">@drawable/gallery2_frame_overlay_gallery_ptp</item>
+    <item name="drawable/grid_pressed">@drawable/gallery2_grid_pressed</item>
+    <item name="drawable/grid_selected">@drawable/gallery2_grid_selected</item>
+    <item name="drawable/ic_gallery_play">@drawable/gallery2_ic_gallery_play</item>
+    <item name="drawable/ic_menu_make_offline">@drawable/gallery2_ic_menu_make_offline</item>
+    <item name="drawable/ic_pan_thumb">@drawable/gallery2_ic_pan_thumb</item>
+    <item name="drawable/ic_vidcontrol_pause">@drawable/gallery2_ic_vidcontrol_pause</item>
+    <item name="drawable/ic_vidcontrol_play">@drawable/gallery2_ic_vidcontrol_play</item>
+    <item name="drawable/ic_vidcontrol_reload">@drawable/gallery2_ic_vidcontrol_reload</item>
+    <item name="drawable/ic_video_thumb">@drawable/gallery2_ic_video_thumb</item>
+    <item name="drawable/overscroll_edge">@drawable/gallery2_overscroll_edge</item>
+    <item name="drawable/overscroll_glow">@drawable/gallery2_overscroll_glow</item>
+    <item name="drawable/preview">@drawable/gallery2_preview</item>
+    <item name="drawable/scrubber_knob">@drawable/gallery2_scrubber_knob</item>
+    <item name="drawable/spinner_76_inner_holo">@drawable/gallery2_spinner_76_inner_holo</item>
+    <item name="drawable/spinner_76_outer_holo">@drawable/gallery2_spinner_76_outer_holo</item>
+    <item name="drawable/thumb_selected">@drawable/gallery2_thumb_selected</item>
+    <item name="color/translucent_cyan">@color/arcee_maincolor</item>
+    <item name="color/opaque_cyan">@color/arcee_maincolor</item>
+</resource-redirections>
