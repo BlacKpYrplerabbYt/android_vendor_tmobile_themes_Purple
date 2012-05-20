@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="color/section_blue">@color/arcee_maincolor</item>
+    <item name="color/quote_text_color_blue">@color/arcee_maincolor</item>
+	<item name="color/quote_text_color_blue">@color/arcee_maincolor_dark</item>
+	<item name="color/thread_highlight_dark">@color/arcee_maincolor_dark</item>
+	<item name="color/link_blue">@color/arcee_maincolor</item>
+	<item name="color/dark_list_high_light">@color/arcee_maincolor_dark</item>
+    <item name="color/blue_light_section_title">@color/arcee_maincolor</item>
+	<item name="color/blue_light_date">@color/arcee_maincolor</item>
+</resource-redirections>

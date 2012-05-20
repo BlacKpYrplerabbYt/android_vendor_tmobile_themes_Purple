@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_5" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_4" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_3" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_2" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_1" />
+	<item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_5" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_4" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_3" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_2" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_1" />
+	<item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_5" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_4" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_3" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_2" />
+    <item android:duration="100" android:drawable="@drawable/com_android_mms_stat_notify_sms_1" />
+</animation-list>

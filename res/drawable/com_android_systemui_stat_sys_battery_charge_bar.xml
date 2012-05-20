@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_0" android:maxLevel="0" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_15" android:maxLevel="15" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_28" android:maxLevel="28" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_43" android:maxLevel="43" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_57" android:maxLevel="57" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_71" android:maxLevel="71" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_85" android:maxLevel="85" />
+    <item android:drawable="@drawable/com_android_systemui_stat_sys_battery_bar_100" android:maxLevel="100" />
+</level-list>

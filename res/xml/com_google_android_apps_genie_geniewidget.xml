@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg_focused_holo">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_bg_pressed_holo">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_inner_focused_c_holo">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focused_l_holo">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focused_r_holo">@drawable/appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_pressed_c_holo">@drawable/appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_pressed_l_holo">@drawable/appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_pressed_r_holo">@drawable/appwidget_inner_press_r</item>
+    <item name="drawable/preview">@drawable/geniewidget_preview</item>
+    <item name="drawable/loadingbar">@drawable/geniewidget_loadingbar</item>
+    <item name="drawable/blue_button_unselected">@drawable/geniewidget_blue_button_unselected</item>
+    <item name="color/tab_bottom_border_active">@color/arcee_maincolor</item>
+	<item name="color/tab_background">@color/black</item>
+    <item name="drawable/bg_weather_panel_app">@drawable/geniewidget_bg_weather_panel_app</item>
+    <item name="drawable/divider">@drawable/geniewidget_divider</item>
+    <item name="drawable/divider_light">@drawable/geniewidget_divider_light</item>
+    <item name="drawable/list_item_bg">@drawable/geniewidget_list_item_bg</item>
+    <item name="drawable/loading_stop">@drawable/geniewidget_loading_stop</item>
+    <item name="drawable/menuitem_background_focus">@drawable/geniewidget_menuitem_background_focus</item>
+    <item name="drawable/menuitem_background_pressed">@drawable/geniewidget_menuitem_background_pressed</item>
+    <item name="drawable/tab_weather_focus">@drawable/geniewidget_tab_weather_focus</item>
+    <item name="drawable/tab_weather_press">@drawable/geniewidget_tab_weather_press</item>
+    <item name="drawable/tab_weather_selected">@drawable/geniewidget_tab_weather_selected</item>
+    <item name="drawable/tab_weather_shadow_l">@drawable/geniewidget_tab_weather_shadow_l</item>
+    <item name="drawable/tab_weather_shadow_r">@drawable/geniewidget_tab_weather_shadow_r</item>
+    <item name="drawable/tab_weather_unselected">@drawable/geniewidget_tab_weather_unselected</item>
+    <item name="drawable/weather_background_grey">@drawable/geniewidget_weather_background_grey</item>
+    <item name="drawable/weather_info_btn">@drawable/geniewidget_weather_info_btn</item>
+    <item name="drawable/weather_info_btn_clicked">@drawable/geniewidget_weather_info_btn_clicked</item>
+    <item name="drawable/weather_info_btn_rev">@drawable/geniewidget_weather_info_btn_rev</item>
+    <item name="drawable/widget_bg">@drawable/geniewidget_widget_bg</item>
+</resource-redirections>
