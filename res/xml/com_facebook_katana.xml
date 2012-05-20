@@ -21,7 +21,7 @@
     <item name="drawable/appwidget_small_bg_default">@drawable/appwidget_bg_light</item>
     <item name="drawable/appwidget_small_bg_pressed">@drawable/appwidget_bg_press_light</item>
     <item name="drawable/appwidget_small_bg_selected">@drawable/appwidget_bg_focus_light</item>
-    <item name="drawable/appwidget_top_white">@drawable/com_android_providers_calendar_appwidget_calendar_bgtop_blue</item>
+    <item name="drawable/appwidget_top_white">@drawable/appwidget_top_white</item>
 	<item name="drawable/appwidget_facebook_icon_default">@drawable/com_facebook_katana_appwidget_facebook_icon_default</item>
 	<item name="drawable/appwidget_facebook_icon_pressed">@drawable/com_facebook_katana_appwidget_facebook_icon_pressed</item>
 	<item name="drawable/appwidget_facebook_icon_selected">@drawable/com_facebook_katana_appwidget_facebook_icon_selected</item>
