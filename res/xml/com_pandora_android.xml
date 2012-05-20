@@ -5,4 +5,11 @@
     <item name="drawable/widget_pandora_logo">@drawable/com_pandora_android_widget_pandora_logo</item>
     <item name="drawable/widget_pandora_logo_hilite">@drawable/com_pandora_android_widget_pandora_logo_hilite</item>
     <item name="drawable/widget_watermark">@drawable/com_pandora_android_widget_watermark</item>
+	<item name="drawable/ad_close_hilite">@drawable/com_pandora_android_ad_close_hilite</item>
+	<item name="drawable/audio_controls">@drawable/com_pandora_android_audio_controls</item>
+	<item name="drawable/fade_audio_controls">@drawable/com_pandora_android_fade_audio_controls</item>
+	<item name="drawable/icon">@drawable/com_pandora_android_icon</item>
+	<item name="drawable/live_folders_icon">@drawable/com_pandora_android_live_folders_icon</item>
+	<item name="drawable/background">@drawable/com_pandora_android_background</item>
+	<item name="drawable/background_p1">@drawable/com_pandora_android_background_p1</item>
 </resource-redirections>

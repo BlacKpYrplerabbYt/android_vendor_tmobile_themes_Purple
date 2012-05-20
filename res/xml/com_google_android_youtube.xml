@@ -72,9 +72,9 @@
     <item name="drawable/widget_teaser_loading">@drawable/com_google_android_youtube_widget_teaser_loading</item>
     <item name="drawable/yt_widget_background">@drawable/com_google_android_youtube_yt_widget_background</item>
     <item name="drawable/bg_yt_button_panel">@drawable/com_google_android_youtube_bg_yt_button_panel</item>
-    <item name="drawable/bg_yt_channel_holo">@drawable/com_google_android_youtube_bg_yt_channel_holo</item>
-    <item name="drawable/bg_yt_home_holo">@drawable/com_google_android_youtube_bg_yt_home_holo</item>
-    <item name="drawable/bg_yt_watch_holo">@drawable/com_google_android_youtube_bg_yt_watch_holo</item>
+    <item name="drawable/bg_yt_channel_holo">@drawable/background_dial_holo_dark</item>
+    <item name="drawable/bg_yt_home_holo">@drawable/background_dial_holo_dark</item>
+    <item name="drawable/bg_yt_watch_holo">@drawable/background_dial_holo_dark</item>
     <item name="drawable/avatar_border">@drawable/com_google_android_youtube_avatar_border</item>
     <item name="drawable/avatar_missing">@drawable/com_google_android_youtube_avatar_missing</item>
     <item name="drawable/btn_skip">@drawable/com_google_android_youtube_btn_skip</item>
@@ -96,4 +96,16 @@
     <item name="drawable/youtube_widget_preview">@drawable/com_google_android_youtube_youtube_widget_preview</item>
     <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
     <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+    <item name="drawable/ic_launcher_youtube">@drawable/com_google_android_youtube_ic_launcher_youtube</item>
+	<item name="drawable/tab_selected_holo">@drawable/com_google_android_youtube_tab_selected_holo</item>
+	<item name="drawable/tab_selected_pressed_focused_holo">@drawable/com_google_android_youtube_tab_selected_pressed_focused_holo</item>
+	<item name="drawable/tab_selected_pressed_holo">@drawable/com_google_android_youtube_tab_selected_pressed_holo</item>
+	<item name="drawable/tab_solid_selected">@drawable/com_google_android_youtube_tab_solid_selected</item>
+	<item name="drawable/tab_solid_selected_pressed">@drawable/com_google_android_youtube_tab_solid_selected_pressed</item>
+	<item name="drawable/tab_solid_unselected">@drawable/com_google_android_youtube_tab_solid_unselected</item>
+	<item name="drawable/tab_solid_unselected_pressed">@drawable/com_google_android_youtube_tab_solid_unselected_pressed</item>
+	<item name="drawable/tab_unselected_focused_holo">@drawable/com_google_android_youtube_tab_unselected_focused_holo</item>
+	<item name="drawable/tab_unselected_holo">@drawable/com_google_android_youtube_tab_unselected_holo</item>
+	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_google_android_youtube_tab_unselected_pressed_holo</item>
+	<item name="drawable/widget_divider">@drawable/com_google_android_youtube_widget_divider</item>
 </resource-redirections>

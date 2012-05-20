@@ -40,4 +40,13 @@
     <item name="color/new_source_label_suffix">@color/arcee_maincolor</item>
     <item name="color/primary_text_inverse">@color/black</item>
     <item name="color/primary_text_normal">@color/white</item>
+    <item name="color/search_plate_background">@color/black</item>
+    <item name="color/search_plate_background_transparent">@color/transparent</item>
+    <item name="color/summons_pane_background">@color/black</item>
+    <item name="color/summons_pane_background_transparent">@color/transparent</item>
+    <item name="color/web_suggestion_background">@color/black</item>
+    <item name="color/web_suggestion_separator">@color/suggestion_separator</item>
+    <item name="color/summons_suggestion_separator">@color/suggestion_separator</item>
+    <item name="color/primary_text_normal">@color/white</item>
+    <item name="color/new_source_label_suffix">#ff8c00ff</item>
 </resource-redirections>

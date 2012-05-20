@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/stat_notify_sms">@drawable/mms_motion_icon</item>
     <item name="drawable/class_zero_background">@drawable/class_zero_background</item>
     <item name="drawable/text_color_red">@drawable/text_color_red</item>
     <item name="drawable/text_color_black">@drawable/text_color_black</item>
@@ -24,4 +25,5 @@
     <item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
     <item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>
     <item name="drawable/list_selector_background_selected">@drawable/com_android_mms_list_selector_background_selected</item>
+    <item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
 </resource-redirections>
