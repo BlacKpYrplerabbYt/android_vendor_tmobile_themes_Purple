@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resource-redirections>
-    <item name="drawable/widget_inbox_background">@drawable/appwidget_light_bg</item>
-    <item name="drawable/widget_settings_background">@drawable/appwidget_light_bg</item>
-	<item name="drawable/voicemail_with_border">@drawable/com_google_android_apps_googlevoice_voicemail_with_border</item>
-	<item name="drawable/voicemail">@drawable/com_google_android_apps_googlevoice_voicemail</item>
-</resource-redirections>
