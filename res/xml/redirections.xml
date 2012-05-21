@@ -126,6 +126,11 @@
         android:name="com.google.android.googlequicksearchbox"
         android:resource="@xml/com_google_android_googlequicksearchbox"
         android:minSdkVersion="7" />	
+		
+	<package-redirections
+        android:name="com.android.googlequicksearchbox"
+        android:resource="@xml/com_android_googlequicksearchbox"
+        android:minSdkVersion="7" />	
 
 	<package-redirections
         android:name="com.google.android.music"
