@@ -40,4 +40,9 @@
 	<item name="drawable/voice_search_hint_close_normal">@drawable/com_android_quicksearchbox_voice_search_hint_close_normal</item>
 	<item name="drawable/voice_search_hint_close_pressed">@drawable/com_android_quicksearchbox_voice_search_hint_close_pressed</item>
 	<item name="drawable/voice_search_hint_close_selected">@drawable/com_android_quicksearchbox_voice_search_hint_close_selected</item>
+	<item name="drawable/hint_google">@drawable/com_android_quicksearchbox_hint_google</item>
+	<item name="drawable/ic_google_hint">@drawable/com_android_quicksearchbox_ic_google_hint</item>
+	<item name="drawable/ic_google_logo_normal">@drawable/com_android_quicksearchbox_ic_google_logo_normal</item>
+	<item name="drawable/ic_search">@drawable/com_android_quicksearchbox_ic_search</item>
+	<item name="drawable/magnifying_glass">@drawable/com_android_quicksearchbox_magnifying_glass</item>
 </resource-redirections>

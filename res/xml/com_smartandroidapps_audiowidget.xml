@@ -7,6 +7,7 @@
 	<item name="drawable/panel_background">@drawable/popup</item>
 	<item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_scrubber_progress_horizontal_holo_dark</item>
 	<item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_scrubber_progress_horizontal_holo_light</item>
+	<item name="drawable/scrubber_control_selector_holo">@drawable/com_smartandroidapps_audiowidget_scrubber_control_selector_holo</item>
 	<item name="drawable/scrubber_control_disabled_holo">@drawable/frameworks_res_scrubber_control_disabled_holo</item>
 	<item name="drawable/scrubber_control_focused_holo">@drawable/frameworks_res_scrubber_control_focused_holo</item>
 	<item name="drawable/scrubber_control_normal_holo">@drawable/frameworks_res_scrubber_control_normal_holo</item>
