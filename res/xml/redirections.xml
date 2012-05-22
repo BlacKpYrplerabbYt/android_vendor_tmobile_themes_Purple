@@ -128,8 +128,8 @@
         android:minSdkVersion="7" />	
 		
 	<package-redirections
-        android:name="com.android.googlequicksearchbox"
-        android:resource="@xml/com_android_googlequicksearchbox"
+        android:name="com.android.quicksearchbox"
+        android:resource="@xml/com_android_quicksearchbox"
         android:minSdkVersion="7" />	
 
 	<package-redirections
