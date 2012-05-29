@@ -31,4 +31,10 @@
 	<item name="drawable/speaker_on">@drawable/com_rebelvox_voxer_speaker_on</item>
 	<item name="drawable/up_button_logo">@drawable/com_rebelvox_voxer_up_button_logo</item>
 	<item name="drawable/voxer_friends_icon">@drawable/com_rebelvox_voxer_voxer_friends_icon</item>
+	<item name="drawable/blue_round_corner_square">@drawable/com_rebelvox_voxer_blue_round_corner_square</item>
+	<item name="drawable/gradient_blue">@drawable/com_rebelvox_voxer_gradient_blue</item>
+	<item name="drawable/orange_gradient_tab">@drawable/com_rebelvox_voxer_orange_gradient_tab</item>
+	<item name="drawable/orange_gradient">@drawable/com_rebelvox_voxer_orange_gradient</item>
+	<item name="drawable/orange_gradient_button">@drawable/com_rebelvox_voxer_orange_gradient_button</item>
+	<item name="drawable/orange_gradient_round_corner">@drawable/com_rebelvox_voxer_orange_gradient_round_corner</item>
 </resource-redirections>
