@@ -1,201 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
 <theme-redirections
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
-
-    <package-redirections 
-        android:name="android"
-        android:resource="@xml/android"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.amazon.mp3"
-        android:resource="@xml/com_amazon_mp3"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.amazon.venezia"
-        android:resource="@xml/com_amazon_venezia"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.anddoes.launcher"
-        android:resource="@xml/com_anddoes_launcher"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.browser"
-        android:resource="@xml/com_android_browser"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.gm"
-        android:resource="@xml/com_google_android_gm"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.contacts"
-        android:resource="@xml/com_android_contacts"
-        android:minSdkVersion="7" />
-
-    <package-redirections 
-        android:name="com.android.deskclock"
-        android:resource="@xml/com_android_deskclock"
-        android:minSdkVersion="7" />
-
-    <package-redirections 
-        android:name="com.android.email"
-        android:resource="@xml/com_android_email"
-        android:minSdkVersion="7" />
-
-    <package-redirections 
-        android:name="com.google.android.apps.genie.geniewidget"
-        android:resource="@xml/com_google_android_apps_genie_geniewidget"
-        android:minSdkVersion="7" />
-
-
-    <package-redirections
-        android:name="com.android.inputmethod.latin"
-        android:resource="@xml/com_android_inputmethod_latin"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.mms"
-        android:resource="@xml/com_android_mms"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.phone"
-        android:resource="@xml/com_android_phone"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.settings"
-        android:resource="@xml/com_android_settings"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.facebook.katana"
-        android:resource="@xml/com_facebook_katana"
-        android:minSdkVersion="7" />
-		
-    <package-redirections
-        android:name="com.android.launcher"
-        android:resource="@xml/com_android_launcher"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.android.launcher2"
-        android:resource="@xml/com_android_launcher2"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.android.providers.calendar"
-        android:resource="@xml/com_android_providers_calendar"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.systemui"
-        android:resource="@xml/com_android_systemui"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.android.wallpaper"
-        android:resource="@xml/com_android_wallpaper"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.android.vending"
-        android:resource="@xml/com_android_vending"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.apps.googlevoice"
-        android:resource="@xml/com_google_android_apps_googlevoice"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.apps.reader"
-        android:resource="@xml/com_google_android_apps_reader"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.gallery3d"
-        android:resource="@xml/com_google_android_gallery3d"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.googlequicksearchbox"
-        android:resource="@xml/com_google_android_googlequicksearchbox"
-        android:minSdkVersion="7" />	
-		
-	<package-redirections
-        android:name="com.android.quicksearchbox"
-        android:resource="@xml/com_android_quicksearchbox"
-        android:minSdkVersion="7" />	
-
-	<package-redirections
-        android:name="com.google.android.music"
-        android:resource="@xml/com_google_android_music"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.talk"
-        android:resource="@xml/com_google_android_talk"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.google.android.youtube"
-        android:resource="@xml/com_google_android_youtube"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.levelup.touiteur"
-        android:resource="@xml/com_levelup_touiteur"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.pandora.android"
-        android:resource="@xml/com_pandora_android"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.twitter.android"
-        android:resource="@xml/com_twitter_android"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.cyanogenmod.trebuchet"
-        android:resource="@xml/com_cyanogenmod_trebuchet"
-        android:minSdkVersion="7" />
-
-
-    <package-redirections
-        android:name="com.teslacoilsw.launcher"
-        android:resource="@xml/com_teslacoilsw_launcher"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="org.adw.launcher"
-        android:resource="@xml/org_adw_launcher"
-        android:minSdkVersion="7" />
-
-	<package-redirections
-        android:name="com.pandora.android"
-        android:resource="@xml/com_pandora_android"
-        android:minSdkVersion="7" />
-		
-	<package-redirections
-        android:name="org.adwfreak.launcher"
-        android:resource="@xml/org_adwfreak_launcher"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.quoord.tapatalkxda.activity"
-        android:resource="@xml/com_quoord_tapatalkxda_activity"
-        android:minSdkVersion="7" />
-
-    <package-redirections
-        android:name="com.quoord.tapatalkxdapre.activity"
-        android:resource="@xml/com_quoord_tapatalkxdapre_activity"
-        android:minSdkVersion="7" />
-
+    <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.amazon.mp3" android:resource="@xml/com_amazon_mp3" android:minSdkVersion="7" />
+    <package-redirections android:name="com.amazon.venezia" android:resource="@xml/com_amazon_venezia" android:minSdkVersion="7" />
+    <package-redirections android:name="com.anddoes.launcher" android:resource="@xml/com_anddoes_launcher" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.browser" android:resource="@xml/com_android_browser" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.gm" android:resource="@xml/com_google_android_gm" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.deskclock" android:resource="@xml/com_android_deskclock" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.email" android:resource="@xml/com_android_email" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.genie.geniewidget" android:resource="@xml/com_google_android_apps_genie_geniewidget" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.inputmethod.latin" android:resource="@xml/com_android_inputmethod_latin" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.mms" android:resource="@xml/com_android_mms" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.phone" android:resource="@xml/com_android_phone" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.settings" android:resource="@xml/com_android_settings" android:minSdkVersion="7" />
+    <package-redirections android:name="com.facebook.katana" android:resource="@xml/com_facebook_katana" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.launcher" android:resource="@xml/com_android_launcher" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.launcher2" android:resource="@xml/com_android_launcher2" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.providers.calendar" android:resource="@xml/com_android_providers_calendar" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.systemui" android:resource="@xml/com_android_systemui" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.wallpaper" android:resource="@xml/com_android_wallpaper" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.vending" android:resource="@xml/com_android_vending" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.googlevoice" android:resource="@xml/com_google_android_apps_googlevoice" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.reader" android:resource="@xml/com_google_android_apps_reader" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.gallery3d" android:resource="@xml/com_google_android_gallery3d" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.googlequicksearchbox" android:resource="@xml/com_google_android_googlequicksearchbox" android:minSdkVersion="7" />
+    <package-redirections android:name="com.android.quicksearchbox" android:resource="@xml/com_android_quicksearchbox" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.music" android:resource="@xml/com_google_android_music" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.talk" android:resource="@xml/com_google_android_talk" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.youtube" android:resource="@xml/com_google_android_youtube" android:minSdkVersion="7" />
+    <package-redirections android:name="com.levelup.touiteur" android:resource="@xml/com_levelup_touiteur" android:minSdkVersion="7" />
+    <package-redirections android:name="com.pandora.android" android:resource="@xml/com_pandora_android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.twitter.android" android:resource="@xml/com_twitter_android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.cyanogenmod.trebuchet" android:resource="@xml/com_cyanogenmod_trebuchet" android:minSdkVersion="7" />
+    <package-redirections android:name="com.teslacoilsw.launcher" android:resource="@xml/com_teslacoilsw_launcher" android:minSdkVersion="7" />
+    <package-redirections android:name="org.adw.launcher" android:resource="@xml/org_adw_launcher" android:minSdkVersion="7" />
+    <package-redirections android:name="com.pandora.android" android:resource="@xml/com_pandora_android" android:minSdkVersion="7" />
+    <package-redirections android:name="org.adwfreak.launcher" android:resource="@xml/org_adwfreak_launcher" android:minSdkVersion="7" />
+    <package-redirections android:name="com.quoord.tapatalkxda.activity" android:resource="@xml/com_quoord_tapatalkxda_activity" android:minSdkVersion="7" />
+    <package-redirections android:name="com.rebelvox.voxer" android:resource="@xml/com_rebelvox_voxer" android:minSdkVersion="7" />
 </theme-redirections>

@@ -1198,9 +1198,9 @@
     <item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
     <item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
     <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
-    <item name="drawable/background_holo_dark">@drawable/background_dial_holo_dark</item>
-    <item name="drawable/background_holo_light">@drawable/background_dial_holo_dark</item>
-    <item name="drawable/cm_background_holo_dark">@drawable/background_dial_holo_dark</item>
+    <item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
+    <item name="drawable/background_holo_light">@drawable/background_holo_light</item>
+    <item name="drawable/cm_background_holo_dark">@drawable/cm_background_holo_dark</item>
     <item name="color/holo_blue_light">@color/arcee_maincolor</item>
     <item name="color/holo_blue_dark">@color/arcee_maincolor_dark</item>
     <item name="color/holo_blue_bright">@color/arcee_maincolor_bright</item>
