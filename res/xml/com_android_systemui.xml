@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
+    <item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
     <item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
     <item name="drawable/stat_sys_battery_charge_circle">@drawable/com_android_systemui_stat_sys_battery_charge_circle</item>
     <item name="drawable/stat_sys_battery_circle">@drawable/com_android_systemui_stat_sys_battery_circle</item>
@@ -17,6 +17,10 @@
     <item name="drawable/ic_notify_quicksettings_normal">@drawable/com_android_systemui_ic_notify_quicksettings_normal</item>
     <item name="drawable/ic_notify_quicksettings_pressed">@drawable/com_android_systemui_ic_notify_quicksettings_pressed</item>
     <item name="drawable/ic_sysbar_airplane_on">@drawable/com_android_systemui_ic_sysbar_airplane_on</item>
+	<item name="drawable/ic_sysbar_menu_big">@drawable/com_android_systemui_ic_sysbar_menu_big</item>
+	<item name="drawable/ic_sysbar_menu_land_big">@drawable/com_android_systemui_ic_sysbar_menu_land_big</item>
+	<item name="drawable/ic_sysbar_power">@drawable/com_android_systemui_ic_sysbar_power</item>
+	<item name="drawable/ic_sysbar_power_land">@drawable/com_android_systemui_ic_sysbar_power_land</item>	
     <item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
     <item name="drawable/ic_sysbar_back_ime_pressed">@drawable/com_android_systemui_ic_sysbar_back_ime_pressed</item>
     <item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
