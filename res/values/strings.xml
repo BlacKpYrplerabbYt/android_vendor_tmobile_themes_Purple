@@ -6,4 +6,15 @@
     <string name="style_appearance_name">pYrplerabbYt</string>
     <string name="author">rabbitfoot</string>
     <string name="copyright">rabbitfoot</string>
+    <string name="theme_title">pYrplerabbYt theme</string>
+    <string name="developer_name">rabbitfoot</string>
+    <string name="developer_link">http://rootzwiki.com/topic/23506-themet-mobile-theme-chooser-for-xhdpi-hdpiaokp-b35-the-pyrple-rabbyt-dark-sexy-pleasures-await/</string>
+    <string name="theme_description">a black and purple glow theme created by rabbitfoot and speedy_tun</string>
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">true</bool>
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
 </resources>
