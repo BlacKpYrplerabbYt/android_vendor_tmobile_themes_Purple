@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="color/holo_blue_light">@color/arcee_maincolor</item>
+	<item name="color/info_target_hover_tint">@color/arcee_maincolor</item>
 	<item name="drawable/bg_appwidget_error">@drawable/launcher_bg_appwidget_error</item>
 	<item name="drawable/btn_check_off_holo_dark">@drawable/btn_check_off_holo_dark</item>
 	<item name="drawable/btn_check_on_holo_dark">@drawable/frameworks_res_btn_check_on_holo</item>
