@@ -12,6 +12,18 @@
     <string name="theme_description">a black and purple glow theme created by rabbitfoot and speedy_tun</string>
     <bool name="config_iconpack">true</bool>
     <bool name="config_apexskin">true</bool>
+    <string name="apply">apply wallpaper</string>
+    <string name="theme_desc_text">pYrplerabbYt</string>
+    <string name="tv_theme_header_text">messages</string>
+    <string name="tv_theme_footer_text">all threads</string>
+    <string name="cmtheme">apply t-Mobile theme</string>
+    <string name="adwtheme">apply adw theme</string>
+    <string name="adwsettings">adw settings</string>
+    <string name="wallpaper">apply wallpaper</string>
+    <string name="config_desktop_indicator_type">1</string>
+    <string name="main_dock_style">2</string>
+    <string name="authorName">rabbitfoot</string>
+    <string name="developerName">rabbitfoot</string>
     <!-- The feature graphic will appear above the theme description -->
     <string name="theme_feature">feature</string>
     <!-- Each theme may have up to 5 preview images -->

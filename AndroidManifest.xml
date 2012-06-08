@@ -2,7 +2,7 @@
 <manifest android:hasCode="false" package="com.rabbitfoot.theme.pYrplerabbYt"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
     <uses-feature android:name="com.tmobile.software.themes" />
-    <theme pluto:themeId="pYrplerabbYt" pluto:styleId="@style/pYrplerabbYt" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="@drawable/homescreen" pluto:styleName="@string/style_appearance_name" pluto:notificationRingtoneName="BlackICE" pluto:notificationRingtoneFileName="media/audio/notifications/BlackICE.mp3">
+    <theme pluto:themeId="pYrplerabbYt" pluto:styleId="@style/pYrplerabbYt" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:wallpaperImage="@drawable/homescreen" pluto:styleName="@string/style_appearance_name">
         <meta-data android:name="com.tmobile.theme.redirections" android:resource="@xml/redirections" />
 	<application android:icon="@drawable/icon" android:label="@string/theme_title">
         <activity android:name=".MainActivity" android:label="@string/theme_title">
@@ -11,6 +11,31 @@
                 <category android:name="com.anddoes.launcher.THEME" />
             </intent-filter>
         </activity>
+    </application>
+    <application android:label="@string/theme_title" android:icon="@drawable/theme_icon">
+        <activity android:name=".main"
+                  android:label="@string/theme_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="org.adw.launcher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />                
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>              
+        </activity>
+        <activity
+            android:name=".docks"
+            android:label="@string/theme_title"
+            android:icon="@drawable/theme_icon">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        <provider android:name=".docksProvider"  android:authorities="com.rabbitfoot.theme.pYrplerabbYt.docksProvider" />
     </application>
     </theme>
 </manifest>
