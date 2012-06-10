@@ -40,4 +40,5 @@
     <package-redirections android:name="org.adwfreak.launcher" android:resource="@xml/org_adwfreak_launcher" android:minSdkVersion="7" />
     <package-redirections android:name="com.quoord.tapatalkxda.activity" android:resource="@xml/com_quoord_tapatalkxda_activity" android:minSdkVersion="7" />
     <package-redirections android:name="com.rebelvox.voxer" android:resource="@xml/com_rebelvox_voxer" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.plus" android:resource="@xml/com_google_android_apps_plus" android:minSdkVersion="7" />
 </theme-redirections>

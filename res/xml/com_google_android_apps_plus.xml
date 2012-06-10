@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/realtimechat_launcher_icon">@drawable/com_google_android_apps_plus_realtimechat_launcher_icon</item>
+</resource-redirections>
