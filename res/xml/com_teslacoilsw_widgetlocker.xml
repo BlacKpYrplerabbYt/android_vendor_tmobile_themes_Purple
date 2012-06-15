@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_teslacoilsw_widgetlocker_icon</item>
+	<item name="drawable/btn_check_off_focused_holo_light">@drawable/com_teslacoilsw_widgetlocker_btn_check_off_focused_holo_light</item>
+	<item name="drawable/btn_check_off_pressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_btn_check_off_pressed_holo_light</item>
+	<item name="drawable/btn_check_on_focused_holo_light">@drawable/com_teslacoilsw_widgetlocker_btn_check_on_focused_holo_light</item>
+	<item name="drawable/btn_check_on_pressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_btn_check_on_pressed_holo_light</item>
+	<item name="drawable/camera_crop_height">@drawable/com_teslacoilsw_widgetlocker_camera_crop_height</item>
+	<item name="drawable/camera_crop_width">@drawable/com_teslacoilsw_widgetlocker_camera_crop_width</item>
+	<item name="drawable/ic_menu_menu_pressed">@drawable/com_teslacoilsw_widgetlocker_ic_menu_menu_pressed</item>
+	<item name="drawable/ic_unread_count_classic">@drawable/com_teslacoilsw_widgetlocker_ic_unread_count_classic</item>
+	<item name="drawable/ic_unread_count_holo">@drawable/com_teslacoilsw_widgetlocker_ic_unread_count_holo</item>
+	<item name="drawable/ic_unread_count_teslaunread">@drawable/com_teslacoilsw_widgetlocker_ic_unread_count_teslaunread</item>
+	<item name="drawable/numberpicker_down_disabled_focused_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_disabled_focused_holo_dark</item>
+	<item name="drawable/numberpicker_down_focused_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_focused_holo_dark</item>
+	<item name="drawable/numberpicker_down_longpressed_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_longpressed_holo_dark</item>
+	<item name="drawable/numberpicker_down_longpressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_longpressed_holo_light</item>
+	<item name="drawable/numberpicker_down_pressed_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_pressed_holo_dark</item>
+	<item name="drawable/numberpicker_down_pressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_numberpicker_down_pressed_holo_light</item>
+	<item name="drawable/numberpicker_up_disabled_focused_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_disabled_focused_holo_dark</item>
+	<item name="drawable/numberpicker_up_focused_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_focused_holo_dark</item>
+	<item name="drawable/numberpicker_up_longpressed_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_longpressed_holo_dark</item>
+	<item name="drawable/numberpicker_up_longpressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_longpressed_holo_light</item>
+	<item name="drawable/numberpicker_up_pressed_holo_dark">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_pressed_holo_dark</item>
+	<item name="drawable/numberpicker_up_pressed_holo_light">@drawable/com_teslacoilsw_widgetlocker_numberpicker_up_pressed_holo_light</item>
+</resource-redirections>

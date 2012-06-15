@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/fex">@drawable/com_estrongs_android_pop_fex</item>
+</resource-redirections>

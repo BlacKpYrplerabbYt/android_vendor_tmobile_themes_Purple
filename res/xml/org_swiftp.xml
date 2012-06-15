@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/swiftp_sinas_20100605">@drawable/org_swiftp_swiftp_sinas_20100605</item>
+</resource-redirections>

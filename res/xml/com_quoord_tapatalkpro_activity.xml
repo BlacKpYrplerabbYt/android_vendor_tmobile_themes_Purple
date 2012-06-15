@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/splash">@drawable/splash2</item>
+	<item name="drawable/appicon">@drawable/com_quoord_tapatalkxda_activity_appicon</item>
     <item name="color/section_blue">@color/arcee_maincolor</item>
     <item name="color/quote_text_color_blue">@color/arcee_maincolor</item>
 	<item name="color/quote_text_color_blue">@color/arcee_maincolor_dark</item>

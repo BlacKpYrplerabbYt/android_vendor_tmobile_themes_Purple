@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher">@drawable/com_hostj2me_stumblr_mobile_ic_launcher</item>
+</resource-redirections>
