@@ -17,5 +17,5 @@
     <item name="color/all_gray">@color/black</item>
 	<item name="color/name_blue">@color/black</item>
 	<item name="color/tab_unselect_blue">@color/black</item>
-	<item name="color/section_blue">@color/black</item></item>
+	<item name="color/section_blue">@color/black</item>
 </resource-redirections>
