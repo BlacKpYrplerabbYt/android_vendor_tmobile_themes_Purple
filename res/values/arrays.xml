@@ -801,5 +801,25 @@
         <item>org_wordpress_android_dashboard</item>
         <item>org_wordpress_android_splashscreen</item>
         <item>yuku_perekammp3_rekamactivity</item>
+        <item>com_androidemu_n64_mainactivity</item>
+        <item>com_chartcross_gpstest_gpstest</item>
+        <item>com_chartcross_gpstestplus_gpstestplus</item>
+        <item>com_drweb_activities_drwebantivirus</item>
+        <item>com_levelup_touiteur_touiteurmain</item>
+        <item>com_photofunia_android_list_listactivity</item>
+        <item>com_photofunia_android_splash_splashactivity</item>
+        <item>com_shazam_android_home</item>
+        <item>com_shazam_android_splash</item>
+        <item>de_mrfloppycoding_galleryexcluder_main</item>
+        <item>de_mrfloppycoding_galleryexcluder_mainactivity</item>
+        <item>de_shapeservices_im_base_imloader</item>
+        <item>de_shapeservices_im_newvisual_mainactivity</item>
+        <item>de_shapeservices_implus_imloader</item>
+        <item>de_shapeservices_implusfull_imloader</item>
+        <item>de_steff_galleryexcluder_main</item>
+        <item>lysesoft_andftp_splashactivity</item>
+        <item>lysesoft_andftppro_startupproactivity</item>
+        <item>net_dinglisch_android_tasker_tasker</item>
+        <item>net_dinglisch_android_taskerm_tasker</item>
     </string-array>
 </resources>
