@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
@@ -379,23 +380,27 @@
     <item name="drawable/edit_query_background_normal">@drawable/frameworks_res_edit_query_background_normal</item>
     <item name="drawable/edit_query_background_pressed">@drawable/frameworks_res_edit_query_background_pressed</item>
     <item name="drawable/edit_query_background_selected">@drawable/frameworks_res_edit_query_background_selected</item>
-    <item name="drawable/emo_im_angel">@drawable/frameworks_res_emo_im_angel</item>
-    <item name="drawable/emo_im_cool">@drawable/frameworks_res_emo_im_cool</item>
-    <item name="drawable/emo_im_crying">@drawable/frameworks_res_emo_im_crying</item>
-    <item name="drawable/emo_im_embarrassed">@drawable/frameworks_res_emo_im_embarrassed</item>
-    <item name="drawable/emo_im_foot_in_mouth">@drawable/frameworks_res_emo_im_foot_in_mouth</item>
-    <item name="drawable/emo_im_happy">@drawable/frameworks_res_emo_im_happy</item>
-    <item name="drawable/emo_im_kissing">@drawable/frameworks_res_emo_im_kissing</item>
-    <item name="drawable/emo_im_laughing">@drawable/frameworks_res_emo_im_laughing</item>
-    <item name="drawable/emo_im_lips_are_sealed">@drawable/frameworks_res_emo_im_lips_are_sealed</item>
-    <item name="drawable/emo_im_money_mouth">@drawable/frameworks_res_emo_im_money_mouth</item>
-    <item name="drawable/emo_im_sad">@drawable/frameworks_res_emo_im_sad</item>
-    <item name="drawable/emo_im_surprised">@drawable/frameworks_res_emo_im_surprised</item>
-    <item name="drawable/emo_im_tongue_sticking_out">@drawable/frameworks_res_emo_im_tongue_sticking_out</item>
-    <item name="drawable/emo_im_undecided">@drawable/frameworks_res_emo_im_undecided</item>
-    <item name="drawable/emo_im_winking">@drawable/frameworks_res_emo_im_winking</item>
-    <item name="drawable/emo_im_wtf">@drawable/frameworks_res_emo_im_wtf</item>
-    <item name="drawable/emo_im_yelling">@drawable/frameworks_res_emo_im_yelling</item>
+	<item name="drawable/emo_im_angel">@drawable/frameworks_res_emo_im_angel</item>
+	<item name="drawable/emo_im_cool">@drawable/frameworks_res_emo_im_cool</item>
+	<item name="drawable/emo_im_crying">@drawable/frameworks_res_emo_im_crying</item>
+	<item name="drawable/emo_im_embarrassed">@drawable/frameworks_res_emo_im_embarrassed</item>
+	<item name="drawable/emo_im_foot_in_mouth">@drawable/frameworks_res_emo_im_foot_in_mouth</item>
+	<item name="drawable/emo_im_happy">@drawable/frameworks_res_emo_im_happy</item>
+	<item name="drawable/emo_im_heart">@drawable/frameworks_res_emo_im_heart</item>
+	<item name="drawable/emo_im_kissing">@drawable/frameworks_res_emo_im_kissing</item>
+	<item name="drawable/emo_im_laughing">@drawable/frameworks_res_emo_im_laughing</item>
+	<item name="drawable/emo_im_lips_are_sealed">@drawable/frameworks_res_emo_im_lips_are_sealed</item>
+	<item name="drawable/emo_im_mad">@drawable/frameworks_res_emo_im_mad</item>
+	<item name="drawable/emo_im_money_mouth">@drawable/frameworks_res_emo_im_money_mouth</item>
+	<item name="drawable/emo_im_pokerface">@drawable/frameworks_res_emo_im_pokerface</item>
+	<item name="drawable/emo_im_sad">@drawable/frameworks_res_emo_im_sad</item>
+	<item name="drawable/emo_im_smirk">@drawable/frameworks_res_emo_im_smirk</item>
+	<item name="drawable/emo_im_surprised">@drawable/frameworks_res_emo_im_surprised</item>
+	<item name="drawable/emo_im_tongue_sticking_out">@drawable/frameworks_res_emo_im_tongue_sticking_out</item>
+	<item name="drawable/emo_im_undecided">@drawable/frameworks_res_emo_im_undecided</item>
+	<item name="drawable/emo_im_winking">@drawable/frameworks_res_emo_im_winking</item>
+	<item name="drawable/emo_im_wtf">@drawable/frameworks_res_emo_im_wtf</item>
+	<item name="drawable/emo_im_yelling">@drawable/frameworks_res_emo_im_yelling</item>
     <item name="drawable/expander_close_holo_dark">@drawable/frameworks_res_expander_close_holo_dark</item>
     <item name="drawable/expander_close_holo_light">@drawable/frameworks_res_expander_close_holo_light</item>
     <item name="drawable/expander_ic_maximized">@drawable/frameworks_res_expander_ic_maximized</item>
@@ -865,9 +870,9 @@
     <item name="drawable/progressbar_indeterminate1">@drawable/frameworks_res_progressbar_indeterminate1</item>
     <item name="drawable/progressbar_indeterminate2">@drawable/frameworks_res_progressbar_indeterminate2</item>
     <item name="drawable/progressbar_indeterminate3">@drawable/frameworks_res_progressbar_indeterminate3</item>
-	<item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
-	<item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
-	<item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
+    <item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
+    <item name="drawable/progress_horizontal_holo_dark">@drawable/frameworks_res_progress_horizontal_holo_dark</item>
+    <item name="drawable/progress_horizontal_holo_light">@drawable/frameworks_res_progress_horizontal_holo_light</item>
     <item name="drawable/quickactions_arrowdown_left_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_left_holo_dark</item>
     <item name="drawable/quickactions_arrowdown_left_holo_light">@drawable/frameworks_res_quickactions_arrowdown_left_holo_light</item>
     <item name="drawable/quickactions_arrowdown_right_holo_dark">@drawable/frameworks_res_quickactions_arrowdown_right_holo_dark</item>
