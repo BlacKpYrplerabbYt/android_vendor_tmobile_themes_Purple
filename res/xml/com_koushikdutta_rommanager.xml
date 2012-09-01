@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/icon">@drawable/com_koushikdutta_rommanager_icon</item>
-	<item name="drawable/desksms">@drawable/com_koushikdutta_rommanager_desksms</item>
-	<item name="drawable/tether">@drawable/com_koushikdutta_rommanager_tether</item>
+    <item name="drawable/desksms">@drawable/com_koushikdutta_rommanager_desksms</item>
+    <item name="drawable/tether">@drawable/com_koushikdutta_rommanager_tether</item>
 </resource-redirections>

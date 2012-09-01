@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
+    <item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
     <item name="drawable/ab_bottom_solid_light_holo">@drawable/gmail_ab_bottom_solid_light_holo</item>
     <item name="drawable/ab_solid_light_holo">@drawable/gmail_ab_solid_light_holo</item>
     <item name="drawable/ab_stacked_solid_light_holo">@drawable/gmail_ab_stacked_solid_light_holo</item>

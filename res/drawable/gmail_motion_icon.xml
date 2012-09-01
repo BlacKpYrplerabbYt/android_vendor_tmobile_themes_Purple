@@ -6,12 +6,12 @@
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_3" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_2" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_1" />
-	<item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
+    <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_4" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_3" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_2" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_1" />
-	<item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
+    <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_4" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_3" />
     <item android:duration="100" android:drawable="@drawable/com_google_android_gm_stat_notify_email_2" />

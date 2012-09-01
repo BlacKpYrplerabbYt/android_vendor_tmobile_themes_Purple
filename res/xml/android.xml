@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
@@ -1304,4 +1303,26 @@
     <item name="drawable/tertiary_text_dark">@drawable/tertiary_text_dark</item>
     <item name="drawable/tertiary_text_light">@drawable/frameworks_res_btn_toggle_on</item>
     <item name="drawable/widget_edittext_dark">@drawable/widget_edittext_dark</item>
+	<item name="drawable/activity_picker_bg_activated">@drawable/frameworks_res_activity_picker_bg_activated</item>
+	<item name="drawable/activity_picker_bg_focused">@drawable/frameworks_res_activity_picker_bg_focused</item>
+	<item name="drawable/btn_cab_done_focused_holo_dark">@drawable/frameworks_res_btn_cab_done_focused_holo_dark</item>
+	<item name="drawable/btn_cab_done_focused_holo_light">@drawable/frameworks_res_btn_cab_done_focused_holo_light</item>
+	<item name="drawable/btn_cab_done_pressed_holo_dark">@drawable/frameworks_res_btn_cab_done_pressed_holo_dark</item>
+	<item name="drawable/btn_cab_done_pressed_holo_light">@drawable/frameworks_res_btn_cab_done_pressed_holo_light</item>
+	<item name="drawable/btn_group_pressed_holo_light">@drawable/frameworks_res_btn_group_pressed_holo_light</item>
+	<item name="drawable/btn_rating_star_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_rating_star_off_disabled_focused_holo_dark</item>
+	<item name="drawable/btn_rating_star_off_disabled_focused_holo_light">@drawable/frameworks_res_btn_rating_star_off_disabled_focused_holo_light</item>
+	<item name="drawable/btn_star_off_disabled_focused_holo_dark">@drawable/frameworks_res_btn_star_off_disabled_focused_holo_dark</item>
+	<item name="drawable/btn_star_off_disabled_focused_holo_light">@drawable/frameworks_res_btn_star_off_disabled_focused_holo_light</item>
+	<item name="drawable/btn_toggle_on_disabled_holo_dark">@drawable/frameworks_res_btn_toggle_on_disabled_holo_dark</item>
+	<item name="drawable/btn_toggle_on_disabled_holo_light">@drawable/frameworks_res_btn_toggle_on_disabled_holo_light</item>
+	<item name="drawable/day_picker_week_view_dayline_holo">@drawable/frameworks_res_day_picker_week_view_dayline_holo</item>
+	<item name="drawable/ic_media_route_on_holo_dark">@drawable/frameworks_res_ic_media_route_on_holo_dark</item>
+	<item name="drawable/ic_media_route_on_holo_light">@drawable/frameworks_res_ic_media_route_on_holo_light</item>
+	<item name="drawable/ic_notification_overlay">@drawable/frameworks_res_ic_notification_overlay</item>
+	<item name="drawable/notification_bg_low_normal">@drawable/frameworks_res_notification_bg_low_normal</item>
+	<item name="drawable/notification_bg_low_pressed">@drawable/frameworks_res_notification_bg_low_pressed</item>
+	<item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
+	<item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
+	<item name="drawable/sym_call_incoming">@drawable/frameworks_res_sym_call_incoming</item>
 </resource-redirections>

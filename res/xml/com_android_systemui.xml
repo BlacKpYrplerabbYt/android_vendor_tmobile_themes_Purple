@@ -79,7 +79,7 @@
     <item name="drawable/stat_sys_battery_min_43">@drawable/com_android_systemui_stat_sys_battery_min_43</item>
     <item name="drawable/stat_sys_battery_min_57">@drawable/com_android_systemui_stat_sys_battery_min_57</item>
     <item name="drawable/stat_sys_battery_min_71">@drawable/com_android_systemui_stat_sys_battery_min_71</item>
-    <item name="drawable/stat_sys_battery_min_85">@drawable/com_android_systemui_stat_sys_battery_min_85</item>	
+    <item name="drawable/stat_sys_battery_min_85">@drawable/com_android_systemui_stat_sys_battery_min_85</item>
     <item name="drawable/stat_sys_battery_min_charge_anim0">@drawable/com_android_systemui_stat_sys_battery_min_charge_anim0</item>
     <item name="drawable/stat_sys_battery_min_charge_anim100">@drawable/com_android_systemui_stat_sys_battery_min_charge_anim100</item>
     <item name="drawable/stat_sys_battery_min_charge_anim15">@drawable/com_android_systemui_stat_sys_battery_min_charge_anim15</item>
@@ -134,7 +134,17 @@
     <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_3_fully</item>
     <item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
+    <item name="drawable/intruder_window_bg">@drawable/intruder_window_bg</item>
     <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
+    <item name="drawable/toggle_background">@drawable/toggle_background</item>
+	<item name="drawable/bottom_divider_glow">@drawable/com_android_systemui_bottom_divider_glow</item>
+	<item name="drawable/ic_notification_overlay">@drawable/com_android_systemui_ic_notification_overlay</item>
+	<item name="drawable/ic_notify_rotation_off_pressed">@drawable/com_android_systemui_ic_notify_rotation_off_pressed</item>
+	<item name="drawable/ic_notify_rotation_on_pressed">@drawable/com_android_systemui_ic_notify_rotation_on_pressed</item>
+	<item name="drawable/stat_sys_battery_circle_unknown">@drawable/com_android_systemui_stat_sys_battery_circle_unknown</item>
+	<item name="drawable/toggle_swagger">@drawable/com_android_systemui_toggle_swagger</item>
+	<item name="drawable/toggle_swagger_off">@drawable/com_android_systemui_toggle_swagger_off</item>
+	<item name="drawable/top_divider_glow">@drawable/com_android_systemui_top_divider_glow</item>
     <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
     <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
