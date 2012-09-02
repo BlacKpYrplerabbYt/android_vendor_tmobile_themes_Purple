@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item type="drawable" name="notification_template_icon_bg">#d8000000</item>
     <item type="drawable" name="notification_number_text_color">#ffffffff</item>
     <item type="drawable" name="notification_item_background_color">#90000000</item>
     <item type="drawable" name="notification_item_background_color_pressed">#ff8c00ff</item>

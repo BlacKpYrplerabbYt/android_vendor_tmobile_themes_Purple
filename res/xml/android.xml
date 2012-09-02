@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+	<item name="drawable/switch_bg_disabled_holo_dark">@drawable/frameworks_res_switch_bg_disabled_holo_dark</item>
+	<item name="drawable/switch_bg_disabled_holo_light">@drawable/frameworks_res_switch_bg_disabled_holo_light</item>
+	<item name="drawable/switch_bg_focused_holo_dark">@drawable/frameworks_res_switch_bg_focused_holo_dark</item>
+	<item name="drawable/switch_bg_focused_holo_light">@drawable/frameworks_res_switch_bg_focused_holo_light</item>
+	<item name="drawable/switch_bg_holo_dark">@drawable/frameworks_res_switch_bg_holo_dark</item>
+	<item name="drawable/switch_bg_holo_light">@drawable/frameworks_res_switch_bg_holo_light</item>
+	<item name="drawable/switch_thumb_activated_holo_dark">@drawable/frameworks_res_switch_thumb_activated_holo_dark</item>
+	<item name="drawable/switch_thumb_activated_holo_light">@drawable/frameworks_res_switch_thumb_activated_holo_light</item>
+	<item name="drawable/switch_thumb_disabled_holo_dark">@drawable/frameworks_res_switch_thumb_disabled_holo_dark</item>
+	<item name="drawable/switch_thumb_disabled_holo_light">@drawable/frameworks_res_switch_thumb_disabled_holo_light</item>
+	<item name="drawable/switch_thumb_holo_dark">@drawable/frameworks_res_switch_thumb_holo_dark</item>
+	<item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
+	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
+	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
+    <item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
+    <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
     <item name="drawable/ab_bottom_solid_light_holo">@drawable/frameworks_res_ab_bottom_solid_light_holo</item>
@@ -1074,20 +1090,6 @@
     <item name="drawable/stat_sys_vp_phone_call_on_hold">@drawable/frameworks_res_stat_sys_vp_phone_call_on_hold</item>
     <item name="drawable/stat_sys_warning">@drawable/frameworks_res_stat_sys_warning</item>
     <item name="drawable/submenu_arrow_nofocus">@drawable/frameworks_res_submenu_arrow_nofocus</item>
-    <item name="drawable/switch_bg_disabled_holo_dark">@drawable/frameworks_res_switch_bg_disabled_holo_dark</item>
-    <item name="drawable/switch_bg_disabled_holo_light">@drawable/frameworks_res_switch_bg_disabled_holo_light</item>
-    <item name="drawable/switch_bg_focused_holo_dark">@drawable/frameworks_res_switch_bg_focused_holo_dark</item>
-    <item name="drawable/switch_bg_focused_holo_light">@drawable/frameworks_res_switch_bg_focused_holo_light</item>
-    <item name="drawable/switch_bg_holo_dark">@drawable/frameworks_res_switch_bg_holo_dark</item>
-    <item name="drawable/switch_bg_holo_light">@drawable/frameworks_res_switch_bg_holo_light</item>
-    <item name="drawable/switch_thumb_activated_holo_dark">@drawable/frameworks_res_switch_thumb_activated_holo_dark</item>
-    <item name="drawable/switch_thumb_activated_holo_light">@drawable/frameworks_res_switch_thumb_activated_holo_light</item>
-    <item name="drawable/switch_thumb_disabled_holo_dark">@drawable/frameworks_res_switch_thumb_disabled_holo_dark</item>
-    <item name="drawable/switch_thumb_disabled_holo_light">@drawable/frameworks_res_switch_thumb_disabled_holo_light</item>
-    <item name="drawable/switch_thumb_holo_dark">@drawable/frameworks_res_switch_thumb_holo_dark</item>
-    <item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
-    <item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
-    <item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
     <item name="drawable/sym_action_add">@drawable/frameworks_res_sym_action_add</item>
     <item name="drawable/sym_action_call">@drawable/frameworks_res_sym_action_call</item>
     <item name="drawable/sym_action_chat">@drawable/frameworks_res_sym_action_chat</item>
