@@ -44,11 +44,4 @@
             android:resource="@xml/redirections" />
 
     </theme>
-    <activity android:name=".MainActivity" 
-        android:label="@string/theme_title">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="com.anddoes.launcher.THEME" />
-            </intent-filter>
-     </activity>
 </manifest>
