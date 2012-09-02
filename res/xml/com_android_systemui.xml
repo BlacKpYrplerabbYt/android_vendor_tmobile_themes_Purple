@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/system_bar_background">@drawable/system_bar_background</item>
+	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
     <item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
     <item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
     <item name="drawable/stat_sys_battery_charge_circle">@drawable/com_android_systemui_stat_sys_battery_charge_circle</item>
