@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/list_activated_holo">@drawable/deskclock_list_activated_holo</item>
     <item name="drawable/alarm_alert_fullscreen_bg">@drawable/deskclock_alarm_alert_fullscreen_bg</item>
     <item name="drawable/appwidget_clock_dial">@drawable/deskclock_appwidget_clock_dial</item>
     <item name="drawable/appwidget_clock_hour">@drawable/deskclock_appwidget_clock_hour</item>

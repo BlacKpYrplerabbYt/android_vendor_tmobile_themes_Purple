@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="mipmap/ic_launcher">@mipmap/com_aokp_romcontrol_ic_launcher</item>
+	<item name="drawable/paypal_donate">@drawable/com_aokp_romcontrol_paypal_donate</item>
+	<item name="drawable/toggle_layout_buttons">@drawable/com_aokp_romcontrol_toggle_layout_buttons</item>
+	<item name="drawable/toggle_layout_summary">@drawable/com_aokp_romcontrol_toggle_layout_summary</item>
+	<item name="drawable/toggle_layout_switches">@drawable/com_aokp_romcontrol_toggle_layout_switches</item>
+	<item name="drawable/twitter_bird">@drawable/com_aokp_romcontrol_twitter_bird</item>
+	<item name="drawable/ic_launcher">@drawable/frameworks_res_sym_def_app_icon</item>
+	<item name="drawable/ic_launcher_application">@drawable/frameworks_res_sym_def_app_icon</item>
+	<item name="drawable/ic_sysbar_null">@drawable/com_android_settings_ic_settings_rom_control</item>
+</resource-redirections>

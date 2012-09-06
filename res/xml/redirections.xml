@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<theme-redirections
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+<theme-redirections xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
     <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="7" />
+    <package-redirections android:name="com.aokp.unicornporn" android:resource="@xml/com_aokp_unicornporn" android:minSdkVersion="7" />
+    <package-redirections android:name="com.aokp.romcontrol" android:resource="@xml/com_aokp_romcontrol" android:minSdkVersion="7" />
+    <package-redirections android:name="com.aokp.aokptips" android:resource="@xml/com_aokp_aokptips" android:minSdkVersion="7" />
     <package-redirections android:name="com.amazon.mp3" android:resource="@xml/com_amazon_mp3" android:minSdkVersion="7" />
     <package-redirections android:name="com.amazon.venezia" android:resource="@xml/com_amazon_venezia" android:minSdkVersion="7" />
     <package-redirections android:name="com.anddoes.launcher" android:resource="@xml/com_anddoes_launcher" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.browser" android:resource="@xml/com_android_browser" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.gm" android:resource="@xml/com_google_android_gm" android:minSdkVersion="7" />
+    <package-redirections android:name="com.google.android.apps.maps" android:resource="@xml/com_google_android_apps_maps" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.deskclock" android:resource="@xml/com_android_deskclock" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.email" android:resource="@xml/com_android_email" android:minSdkVersion="7" />
@@ -44,16 +47,16 @@
     <package-redirections android:name="ccc71.bmw" android:resource="@xml/ccc71_bmw" android:minSdkVersion="7" />
     <package-redirections android:name="ccc71.bmw.pro" android:resource="@xml/ccc71_bmw" android:minSdkVersion="7" />
     <package-redirections android:name="cn.miren.browser" android:resource="@xml/cn_miren_browser" android:minSdkVersion="7" />
-    <package-redirections android:name="com.alensw.PicFolder" android:resource="@xml/com_alensw_PicFolder" android:minSdkVersion="7" />
+    <package-redirections android:name="com.alensw.picfolder" android:resource="@xml/com_alensw_picfolder" android:minSdkVersion="7" />
     <package-redirections android:name="com.android.chrome" android:resource="@xml/com_android_chrome" android:minSdkVersion="7" />
-    <package-redirections android:name="com.antutu.ABenchmark" android:resource="@xml/com_antutu_ABenchMark" android:minSdkVersion="7" />
+    <package-redirections android:name="com.antutu.abenchmark" android:resource="@xml/com_antutu_abenchmark" android:minSdkVersion="7" />
     <package-redirections android:name="com.citc.wallbase" android:resource="@xml/com_citc_wallbase" android:minSdkVersion="7" />
     <package-redirections android:name="com.ebay.mobile" android:resource="@xml/com_ebay_mobile" android:minSdkVersion="7" />
-    <package-redirections android:name="com.Elecont.WeatherClock" android:resource="@xml/com_Elecont_WeatherClock" android:minSdkVersion="7" />
+    <package-redirections android:name="com.elecont.weatherclock" android:resource="@xml/com_elecont_weatherclock" android:minSdkVersion="7" />
     <package-redirections android:name="com.estrongs.android.pop" android:resource="@xml/com_estrongs_android_pop" android:minSdkVersion="7" />
     <package-redirections android:name="com.hostj2me.stumblr.mobile" android:resource="@xml/com_hostj2me_stumblr_mobile" android:minSdkVersion="7" />
     <package-redirections android:name="com.google.android.apps.translate" android:resource="@xml/com_google_android_apps_translate" android:minSdkVersion="7" />
-    <package-redirections android:name="com.keramidas.TitaniumBackupPro" android:resource="@xml/com_keramidas_TitaniumBackupPro" android:minSdkVersion="7" />
+    <package-redirections android:name="com.keramidas.titaniumbackuppro" android:resource="@xml/com_keramidas_titaniumbackuppro" android:minSdkVersion="7" />
     <package-redirections android:name="com.koushikdutta.rommanager" android:resource="@xml/com_koushikdutta_rommanager" android:minSdkVersion="7" />
     <package-redirections android:name="com.redphx.simpletext" android:resource="@xml/com_redphx_simpletext" android:minSdkVersion="7" />
     <package-redirections android:name="org.swiftp" android:resource="@xml/org_swiftp" android:minSdkVersion="7" />

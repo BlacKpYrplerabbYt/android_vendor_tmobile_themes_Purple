@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/preview">@drawable/com_aokp_aokptips_preview</item>
+	<item name="drawable/aokptips_widget_focused">@drawable/com_aokp_aokptips_aokptips_widget_focused</item>
+	<item name="drawable/aokptips_widget_pressed">@drawable/com_aokp_aokptips_aokptips_widget_pressed</item>
+	<item name="drawable/aokptip_widget_normal">@drawable/com_aokp_aokptips_aokptip_widget_normal</item>
+	<item name="drawable/icon">@drawable/com_aokp_aokptips_icon</item>
+	<item name="drawable/unicorn">@drawable/com_aokp_aokptips_unicorn</item>
+</resource-redirections>

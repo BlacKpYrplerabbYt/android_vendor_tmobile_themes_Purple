@@ -97,8 +97,8 @@
     <color name="timestamp_color">#bf000000</color>
     <color name="unread_bgcolor">#ff777777</color>
     <color name="message_count_color">#668c00ff</color>
-	<color name="suggestion_separator">#ff191919</color>
-	<color name="pane_background">#c08c00ff</color>
+    <color name="suggestion_separator">#ff191919</color>
+    <color name="pane_background">#c08c00ff</color>
     <color name="arcee_maincolor">#ff8c00ff</color>
     <color name="arcee_maincolor_dark">#ff673298</color>
     <color name="arcee_maincolor_bright">#ff8c00ff</color>

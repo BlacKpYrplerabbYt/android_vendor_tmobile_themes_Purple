@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/system_bar_background">@drawable/system_bar_background</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
 	<item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
     <item name="drawable/stat_sys_battery_charge_bar">@drawable/com_android_systemui_stat_sys_battery_charge_bar</item>
     <item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>
@@ -46,8 +47,8 @@
     <item name="drawable/recents_thumbnail_bg_press">@drawable/com_android_systemui_recents_thumbnail_bg_press</item>
     <item name="drawable/screenshot_panel">@drawable/com_android_systemui_screenshot_panel</item>
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
-    <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
     <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
+	<item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
     <item name="drawable/status_bar_expand_default">@drawable/com_android_systemui_status_bar_expand_default</item>
     <item name="drawable/status_bar_expand_pressed">@drawable/com_android_systemui_status_bar_expand_pressed</item>
     <item name="drawable/status_bar_hr">@drawable/com_android_systemui_status_bar_hr</item>
