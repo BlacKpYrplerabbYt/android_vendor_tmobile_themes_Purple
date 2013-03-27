@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="drawable" name="system_bar_background">#00000000</item>
 	<item type="drawable" name="intruder_bg_pressed">#ff8c00ff</item>
-    <item type="drawable" name="notification_template_icon_bg">#d8000000</item>
-    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
-    <item type="drawable" name="notification_item_background_color">#90000000</item>
-    <item type="drawable" name="notification_item_background_color_pressed">#ff8c00ff</item>
-    <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
-    <drawable name="status_bar_background">@drawable/com_android_systemui_status_bar_bg_tile</drawable>
-    <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
-    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
-    <item type="drawable" name="status_bar_notification_row_background_color">#90000000</item>
-    <item type="drawable" name="notification_header_bg">#ff000000</item>
-    <item type="drawable" name="notification_tracking_bg">#d8000000</item>
-    <item type="drawable" name="recents_callout_line">#99ffffff</item>
-    <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
-    <item type="drawable" name="screen_background_light">#ffffffff</item>
-    <item type="drawable" name="screen_background_dark">#ff000000</item>
-    <item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
-    <item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
-    <item type="drawable" name="search_bar_default_color">#ff000000</item>
-    <item type="drawable" name="safe_mode_background">#60000000</item>
-    <item type="drawable" name="screen_background_dark_transparent">#80000000</item>
-    <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
-    <item type="drawable" name="input_method_fullscreen_background">#fff9f9f9</item>
-    <item type="drawable" name="selected_day_background">#ff8c00ff</item>
-    <item type="drawable" name="class_zero_background">#7f040000</item>
-    <item type="drawable" name="text_color_red">#ffff4444</item>
-    <item type="drawable" name="text_color_black">#ff000000</item>
-    <item type="drawable" name="text_color_offwhite">#55ffffff</item>
-    <item type="drawable" name="text_color_blue">#cc8c00ff</item>
+	<item type="drawable" name="notification_tracking_bg">#d8000000</item>
+	<item type="drawable" name="screen_background_light">#ffffffff</item>
+	<item type="drawable" name="screen_background_dark">#ff000000</item>
+	<item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
+	<item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
+	<item type="drawable" name="search_bar_default_color">#ff000000</item>
+	<item type="drawable" name="safe_mode_background">#60000000</item>
+	<item type="drawable" name="screen_background_dark_transparent">#80000000</item>
+	<item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
+	<item type="drawable" name="input_method_fullscreen_background">#fff9f9f9</item>
+	<item type="drawable" name="selected_day_background">#ff8c00ff</item>
+	<item type="drawable" name="text_color_offwhite">#55ffffff</item>
+	<item type="drawable" name="text_color_blue">#cc8c00ff</item>
+	<item type="drawable" name="notification_header_bg">#c5000000</item>
+	<item type="drawable" name="notification_icon_area_smoke">#c5000000</item>
+	<item type="drawable" name="notification_item_background_color">#c5000000</item>
+	<item type="drawable" name="notification_item_background_color_pressed">#7f8300FF</item>
+	<item type="drawable" name="notification_item_background_legacy_color">#7f8300FF</item>
+	<item type="drawable" name="notification_number_text_color">#ffffffff</item>
+	<item type="drawable" name="notification_template_icon_bg">#c5000000</item>
+	<item type="drawable" name="notification_template_icon_low_bg">#c5000000</item>
+	<item type="drawable" name="recents_callout_line">#99ffffff</item>
+	<item type="drawable" name="status_bar_background">#ff000000</item>
+	<item type="drawable" name="status_bar_notification_row_background_color">#c5000000</item>
+	<item type="drawable" name="status_bar_recents_app_thumbnail_background">#c5000000</item>
+	<item type="drawable" name="status_bar_recents_background_solid">#c5000000</item>
+	<item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
+	<!-- mms drawable -->
+	<item type="drawable" name="class_zero_background">#7f000000</item>
+	<item type="drawable" name="text_color_red">#ffff4444</item>
+	<item type="drawable" name="text_color_black">#ff000000</item>
 </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+	<item name="drawable/list_selector_background_focus">@drawable/frameworks_res_list_selector_background_focus</item>
+	<item name="drawable/textfield_selected">@drawable/frameworks_res_textfield_selected</item>
+    <item name="drawable/btn_check_off_selected">@drawable/frameworks_res_btn_check_off_selected</item>
+	<item name="drawable/btn_default_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_default_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="drawable/btn_check_on_selected">@drawable/frameworks_res_btn_check_on_selected</item>
+    <item name="drawable/btn_search_dialog_pressed">@drawable/frameworks_res_btn_search_dialog_pressed</item>
+    <item name="drawable/btn_zoom_down_pressed">@drawable/frameworks_res_btn_zoom_down_pressed</item>
+    <item name="drawable/btn_zoom_up_pressed">@drawable/frameworks_res_btn_zoom_up_pressed</item>
+    <item name="drawable/btn_check_off_pressed">@drawable/frameworks_res_btn_check_off_pressed</item>
+    <item name="drawable/btn_check_on_pressed">@drawable/frameworks_res_btn_check_on_pressed</item>
+    <item name="drawable/textfield_pressed">@drawable/frameworks_res_textfield_pressed_holo</item>
+    <item name="drawable/btn_default_normal_disable_focused">@drawable/frameworks_res_btn_default_normal_disable_focused</item>
+	<item name="drawable/btn_default_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+    <item name="drawable/btn_default_selected">@drawable/frameworks_res_btn_default_selected</item>
+    <item name="color/pressed">@color/arcee_maincolor</item>
+    <item name="color/link_blue">@color/arcee_maincolor</item>
+    <item name="color/light_blue">@color/arcee_maincolor</item>
+    <item name="color/entity_blue">@color/arcee_maincolor</item>
+    <item name="color/blue">@color/arcee_maincolor</item>
+    <item name="color/url_link">@color/arcee_maincolor</item>
+    <item name="color/ad_background_pressed">@color/arcee_maincolor</item>
+    <item name="color/ad_background_pressed_ics">@color/arcee_maincolor</item>
+    <item name="color/transit_blue">@color/arcee_maincolor</item>
+    <item name="color/elevation_graph_stroke">@color/arcee_maincolor</item>
+    <item name="color/da_destination_picker_pager_title_item_color">@color/arcee_maincolor</item>
+    <item name="color/tip_title">@color/arcee_maincolor</item>
+    <item name="color/da_splash_gradient_end">@color/arcee_maincolor</item>
+    <item name="color/elevation_graph_fill">@color/#c08c00ff</item>
+    <item name="color/focused">@color/arcee_maincolor_dark</item>
+    <item name="color/navy_blue">@color/arcee_maincolor_dark</item>
+    <item name="color/blue_divider">@color/arcee_maincolor_dark</item>
+</resource-redirections>

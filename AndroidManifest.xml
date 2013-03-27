@@ -20,13 +20,14 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.rabbitfoot.theme.pYrplerabbYt"
     android:hasCode="false"
-    android:versionCode="1" android:versionName="1">
-
+    android:versionCode="1" android:versionName="10.0">
+<uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+		
     <application name="pYrplerabbYt" android:hasCode="false" android:icon="@drawable/icon" android:label="pYrplerabbYt">
     </application>
 
-    <!-- Make sure this theme APK only shows up on appropriate devices. -->
-    <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme 
         pluto:themeId="pYrplerabbYt"
@@ -38,10 +39,8 @@
         pluto:wallpaperImage="@drawable/homescreen"
         pluto:styleName="@string/style_appearance_name">
 
-        <!-- Currently this is not being read, but instead the redirections are
-             inferred from the convention res/xml/<package_name>.xml. -->
-        <meta-data android:name="com.tmobile.theme.redirections"
-            android:resource="@xml/redirections" />
 
     </theme>
+
 </manifest>
+

@@ -8,3 +8,4 @@ LOCAL_PACKAGE_NAME := Purple
 LOCAL_AAPT_FLAGS := -c hdpi,xhdpi,sw600dp -x 10
 
 include $(BUILD_PACKAGE)
+
