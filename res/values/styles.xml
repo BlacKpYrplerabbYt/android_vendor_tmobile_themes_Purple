@@ -2,12 +2,12 @@
 <resources>
     <style name="pYrplerabbYt" parent="@android:style/Theme" />
     <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
-        <item name="android:textColor">#ff33B5E5</item>
+        <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="Animation.PopupWindow" parent="@android:style/Animation" />
     <style name="TextAppearance.StatusBar.PhoneTicker" parent="@style/Animation.PopupWindow">
         <item name="android:textSize">14.0dip</item>
-        <item name="android:textColor">#ff33B5E5</item>
+        <item name="android:textColor">#ff8300FF</item>
     </style>
 	<style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
         <!-- Note: must be dp to fit in status bar -->
@@ -24,7 +24,7 @@
     <style name="TextAppearance.StatusBar.Expanded.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
         <item name="android:textSize">12dp</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ff33B5E5</item>
+        <item name="android:textColor">#ff8300FF</item>
         <item name="android:textAllCaps">true</item>
     </style>
 	<style name="TextAppearance" />
@@ -32,7 +32,7 @@
     <style name="TextAppearance.QuickSettings.TileView" parent="@style/TextAppearance.QuickSettings">
         <item name="android:textSize">12.0dip</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColor">#ff8300FF</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:paddingLeft">6.0dip</item>
         <item name="android:paddingRight">6.0dip</item>
@@ -45,7 +45,7 @@
 	<style name="TextAppearance.StatusBar.TextButton" parent="@style/TextAppearance.QuickSettings">
         <item name="android:textAppearance">?android:textAppearance</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColor">#ff8300FF</item>
     </style>
 	
 	<!-- contacts styles -->
@@ -211,7 +211,7 @@
         <item name="android:singleLine">true</item>
     </style>
     <style name="com_android_mms_NotificationPrimaryText">
-        <item name="android:textColor">#ff33B5E5</item>
+        <item name="android:textColor">#ff8300FF</item>
     </style>
     <style name="com_android_mms_NotificationSecondaryText">
         <item name="android:textColor">#ffffffff</item>
@@ -221,6 +221,6 @@
     </style>
     <style name="deleteThreadTextAppearance" parent="@*android:attr/textAppearanceMedium">
         <item name="android:textSize">18.0dip</item>
-        <item name="android:textColor">#ff33B5E5</item>
+        <item name="android:textColor">#ff8300FF</item>
     </style>
 </resources>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-	<item name="drawable/holo_background">@drawable/holo_background</item>
-	<item name="drawable/alarm_alert_fullscreen_bg">@drawable/alarm_alert_fullscreen_bg</item>
 	<item name="drawable/ab_hairline">@drawable/ab_hairline</item>
+	<item name="drawable/alarm_alert_fullscreen_bg">@drawable/alarm_alert_fullscreen_bg</item>
 	<item name="drawable/btn_alarm_focused">@drawable/com_android_deskclock_btn_alarm_focused</item>
 	<item name="drawable/btn_alarm_normal">@drawable/com_android_deskclock_btn_alarm_normal</item>
 	<item name="drawable/btn_alarm_pressed">@drawable/com_android_deskclock_btn_alarm_pressed</item>
+	<item name="drawable/holo_background">@drawable/holo_background</item>
 	<item name="drawable/ic_add">@drawable/com_android_deskclock_ic_add</item>
 	<item name="drawable/ic_alarm">@drawable/com_android_deskclock_ic_alarm</item>
 	<item name="drawable/ic_backspace_normal">@drawable/com_android_deskclock_ic_backspace_normal</item>
@@ -47,6 +47,7 @@
 	<item name="drawable/ic_stop_normal">@drawable/com_android_deskclock_ic_stop_normal</item>
 	<item name="drawable/ic_tab_clock">@drawable/com_android_deskclock_ic_tab_clock</item>
 	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock</item>
+	<item name="drawable/ic_tab_clock_activated">@drawable/com_android_deskclock_ic_tab_clock_activated</item>
 	<item name="drawable/ic_tab_clock_normal">@drawable/com_android_deskclock_ic_tab_clock_normal</item>
 	<item name="drawable/ic_tab_stopwatch">@drawable/com_android_deskclock_ic_tab_stopwatch</item>
 	<item name="drawable/ic_tab_stopwatch_activated">@drawable/com_android_deskclock_ic_tab_stopwatch_activated</item>
@@ -54,8 +55,7 @@
 	<item name="drawable/ic_tab_timer">@drawable/com_android_deskclock_ic_tab_timer</item>
 	<item name="drawable/ic_tab_timer_activated">@drawable/com_android_deskclock_ic_tab_timer_activated</item>
 	<item name="drawable/ic_tab_timer_normal">@drawable/com_android_deskclock_ic_tab_timer_normal</item>
-	<item name="drawable/ic_x_normal">@drawable/com_android_deskclock_ic_x_normal</item>
-	<!-- colors -->
+	<item name="drawable/ic_x_normal">@drawable/com_android_deskclock_ic_x_normal</item>	<!-- colors -->
 	<item name="color/clock_red">@color/arcee_maincolor_bright</item>
 	<item name="color/red">@color/arcee_maincolor_bright</item>
 	<item name="color/notification_bg">@color/black</item>

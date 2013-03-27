@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/ic_launcher_settings">@drawable/com_android_settings_settings</item>
     <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg</item>
     <item name="drawable/appwidget_inner_focused_c_holo">@drawable/appwidget_inner_focus_c</item>
     <item name="drawable/appwidget_inner_focused_l_holo">@drawable/appwidget_inner_focus_l</item>
