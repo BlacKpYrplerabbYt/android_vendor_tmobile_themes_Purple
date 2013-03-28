@@ -171,9 +171,9 @@
 	<color name="com_android_mms_white">#ffffffff</color>
 	<color name="com_android_mms_black">#ff000000</color>
 	<color name="com_android_mms_text_hairline">#ffafafaf</color>
-	<color name="com_android_mms_message_count_color">#668300FF</color>
+	<color name="com_android_mms_message_count_color">#66ffffff</color>
 	<color name="com_android_mms_timestamp_color">#bfefefef</color>
-	<color name="com_android_mms_unread_bgcolor">#998300FF</color>
+	<color name="com_android_mms_unread_bgcolor">#668300FF</color>
 	<color name="com_android_mms_read_bgcolor">#ff000000</color>
 	<color name="com_android_mms_widget_sender_text_color_unread">#ff8300FF</color>
 	<color name="com_android_mms_widget_subject_text_color_read">#ffbfbfbf</color>
