@@ -164,15 +164,15 @@
 	<color name="theme_primary_trans">#00000000</color>
 	<color name="theme_primary_dark_trans">#99555555</color>
 	<!-- mms colors -->
-	<color name="com_android_mms_message_recieved">#ff8300FF</color>
+	<color name="com_android_mms_message_recieved">#ffffffff</color>
 	<color name="com_android_mms_message_sent">#ffffffff</color>
 	<color name="com_android_mms_widget_sender_text_color_read">#dfdfdf</color>
 	<color name="com_android_mms_widget_subject_tex_color_unread">#8300FF</color>
 	<color name="com_android_mms_white">#ffffffff</color>
-	<color name="com_android_mms_black">#ff000000</color>
-	<color name="com_android_mms_text_hairline">#ffafafaf</color>
-	<color name="com_android_mms_message_count_color">#66ffffff</color>
-	<color name="com_android_mms_timestamp_color">#bfefefef</color>
+	<color name="com_android_mms_black">#ffffffff</color>
+	<color name="com_android_mms_text_hairline">#ff000000</color>
+	<color name="com_android_mms_message_count_color">#ffffffff</color>
+	<color name="com_android_mms_timestamp_color">#ffffffff</color>
 	<color name="com_android_mms_unread_bgcolor">#668300FF</color>
 	<color name="com_android_mms_read_bgcolor">#ff000000</color>
 	<color name="com_android_mms_widget_sender_text_color_unread">#ff8300FF</color>

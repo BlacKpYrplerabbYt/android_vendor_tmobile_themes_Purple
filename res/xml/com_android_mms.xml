@@ -113,6 +113,10 @@
 	<item name="drawable/textfield_multiline_disabled_focused_holo_light">@drawable/com_android_mms_textfield_multiline_disabled_focused_holo_light</item>
 	<item name="drawable/textfield_multiline_disabled_holo_light">@drawable/com_android_mms_textfield_multiline_disabled_holo_light</item>
 	<item name="drawable/textfield_multiline_focused_holo_light">@drawable/com_android_mms_textfield_multiline_focused_holo_light</item>
+	<item name="drawable/ic_send_disabled_holo_light">@drawable/com_android_mms_ic_send_disabled_holo_light</item>
+	<item name="drawable/ic_send_holo_dark">@drawable/com_android_mms_ic_send_holo_dark</item>
+	<item name="drawable/ic_send_holo_light">@drawable/com_android_mms_ic_send_holo_light</item>
+	<item name="drawable/ic_send_holo_light_quick_reply">@drawable/com_android_mms_ic_send_holo_light_quick_reply</item>
 	<!-- mms styles -->
     <item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
     <item name="style/WidgetTitle">@style/com_android_mms_WidgetTitle</item>
@@ -139,7 +143,7 @@
     <item name="color/delivery_report_date">@color/com_android_mms_delivery_report_date</item>
     <item name="color/button_text">@color/com_android_mms_button_text</item>
     <item name="color/message_recieved">@color/com_android_mms_message_recieved</item>
-	<item name="color/message_received">@color/com_android_mms_message_recieved</item>
+    <item name="color/message_received">@color/com_android_mms_message_recieved</item>
     <item name="color/message_sent">@color/com_android_mms_message_sent</item>
     <item name="color/widget_unread_text">@color/com_android_mms_widget_unread_text</item>
     <item name="color/widget_loading">@color/com_android_mms_widget_loading</item>
