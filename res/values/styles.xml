@@ -32,7 +32,7 @@
     <style name="TextAppearance.QuickSettings.TileView" parent="@style/TextAppearance.QuickSettings">
         <item name="android:textSize">12.0dip</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ff8300FF</item>
+        <item name="android:textColor">#ffffffff</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:paddingLeft">6.0dip</item>
         <item name="android:paddingRight">6.0dip</item>
@@ -45,7 +45,7 @@
 	<style name="TextAppearance.StatusBar.TextButton" parent="@style/TextAppearance.QuickSettings">
         <item name="android:textAppearance">?android:textAppearance</item>
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">#ff8300FF</item>
+        <item name="android:textColor">#ffffffff</item>
     </style>
 	
 	<!-- contacts styles -->
