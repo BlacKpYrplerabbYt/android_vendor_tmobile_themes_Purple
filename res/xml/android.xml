@@ -31,6 +31,7 @@
 	<item name="drawable/btn_toggle_on_disabled_holo_light">@drawable/frameworks_res_btn_toggle_on_disabled_holo_light</item>
 	<item name="drawable/day_picker_week_view_dayline_holo">@drawable/frameworks_res_day_picker_week_view_dayline_holo</item>
 	<item name="drawable/dialog_bottom_holo_dark">@drawable/frameworks_res_dialog_bottom_holo_dark</item>
+	<item name="drawable/dialog_divider_horizontal_holo_dark">@drawable/frameworks_res_dialog_divider_horizontal_holo_dark</item>
 	<item name="drawable/dialog_divider_horizontal_holo_light">@drawable/frameworks_res_dialog_divider_horizontal_holo_light</item>
 	<item name="drawable/dialog_divider_horizontal_light">@drawable/frameworks_res_dialog_divider_horizontal_light</item>
 	<item name="drawable/dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
@@ -39,6 +40,21 @@
 	<item name="drawable/dialog_middle_holo_light">@drawable/frameworks_res_dialog_middle_holo_light</item>
 	<item name="drawable/dialog_top_holo_dark">@drawable/frameworks_res_dialog_top_holo_dark</item>
 	<item name="drawable/dialog_top_holo_light">@drawable/frameworks_res_dialog_top_holo_light</item>
+	<item name="drawable/divider_horizontal_bright">@drawable/frameworks_res_divider_horizontal_bright</item>
+	<item name="drawable/divider_horizontal_bright_opaque">@drawable/frameworks_res_divider_horizontal_bright_opaque</item>
+	<item name="drawable/divider_horizontal_dark">@drawable/frameworks_res_divider_horizontal_dark</item>
+	<item name="drawable/divider_horizontal_dark_opaque">@drawable/frameworks_res_divider_horizontal_dark_opaque</item>
+	<item name="drawable/divider_horizontal_dim_dark">@drawable/frameworks_res_divider_horizontal_dim_dark</item>
+	<item name="drawable/divider_horizontal_holo_dark">@drawable/frameworks_res_divider_horizontal_holo_dark</item>
+	<item name="drawable/divider_horizontal_holo_light">@drawable/frameworks_res_divider_horizontal_holo_light</item>
+	<item name="drawable/divider_horizontal_textfield">@drawable/frameworks_res_divider_horizontal_textfield</item>
+	<item name="drawable/divider_strong_holo">@drawable/frameworks_res_divider_strong_holo</item>
+	<item name="drawable/divider_vertical_bright">@drawable/frameworks_res_divider_vertical_bright</item>
+	<item name="drawable/divider_vertical_bright_opaque">@drawable/frameworks_res_divider_vertical_bright_opaque</item>
+	<item name="drawable/divider_vertical_dark">@drawable/frameworks_res_divider_vertical_dark</item>
+	<item name="drawable/divider_vertical_dark_opaque">@drawable/frameworks_res_divider_vertical_dark_opaque</item>
+	<item name="drawable/divider_vertical_holo_dark">@drawable/frameworks_res_divider_vertical_holo_dark</item>
+	<item name="drawable/divider_vertical_holo_light">@drawable/frameworks_res_divider_vertical_holo_light</item>
 	<item name="drawable/emo_im_angel">@drawable/frameworks_res_emo_im_angel</item>
 	<item name="drawable/emo_im_cool">@drawable/frameworks_res_emo_im_cool</item>
 	<item name="drawable/emo_im_crying">@drawable/frameworks_res_emo_im_crying</item>
@@ -158,6 +174,11 @@
 	<item name="drawable/ic_media_route_on_holo_light">@drawable/frameworks_res_ic_media_route_on_holo_light</item>
 	<item name="drawable/ic_notification_overlay">@drawable/frameworks_res_ic_notification_overlay</item>
 	<item name="drawable/keyboard_popup_panel_background_holo">@drawable/frameworks_res_com_android_inputmethod_latin_keyboard_popup_panel_background_holo</item>
+	<item name="drawable/list_divider_holo_dark">@drawable/frameworks_res_list_divider_holo_dark</item>
+	<item name="drawable/list_divider_holo_light">@drawable/frameworks_res_list_divider_holo_light</item>
+	<item name="drawable/list_divider_horizontal_holo_dark">@drawable/frameworks_res_list_divider_horizontal_holo_dark</item>
+	<item name="drawable/list_section_divider_holo_dark">@drawable/frameworks_res_list_section_divider_holo_dark</item>
+	<item name="drawable/list_section_divider_holo_light">@drawable/frameworks_res_list_section_divider_holo_light</item>
 	<item name="drawable/list_selector_activated_holo_dark">@drawable/frameworks_res_list_selector_activated_holo_dark</item>
 	<item name="drawable/list_selector_activated_holo_light">@drawable/frameworks_res_list_selector_activated_holo_light</item>
 	<item name="drawable/list_selector_background_focus">@drawable/frameworks_res_list_selector_background_focus</item>
@@ -171,6 +192,7 @@
 	<item name="drawable/notification_bg_low_pressed">@drawable/frameworks_res_notification_bg_low_pressed</item>
 	<item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
 	<item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
+	<item name="drawable/numberpicker_selection_divider">@drawable/frameworks_res_numberpicker_selection_divider</item>
 	<item name="drawable/panel_background">@drawable/frameworks_res_panel_background</item>
 	<item name="drawable/picture_frame">@drawable/frameworks_res_picture_frame</item>
 	<item name="drawable/popup_bottom_bright">@drawable/frameworks_res_popup_bottom_bright</item>
@@ -1470,8 +1492,7 @@
     <item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
     <item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
     <item name="drawable/widget_edittext_dark">@drawable/widget_edittext_dark</item>
-    <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
-	<!-- styles -->
+    <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 <!-- colors -->
 	<item name="color/keyguard_avatar_frame_pressed_color">@color/holo_blue_light</item>
