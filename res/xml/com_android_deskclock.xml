@@ -68,7 +68,7 @@
 	<item name="drawable/clock_selector">@drawable/clock_selector</item>
 	<item name="drawable/header_bg">@drawable/header_bg</item>
 	<item name="drawable/header_bg_bar">@drawable/header_bg_bar</item>
-	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
+	<item name="drawable/notification_template_icon_bg">@color/arcee_maincolor</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/notification_bg">@drawable/com_google_android_deskclock_notification_bg</item>
 	<item name="drawable/com_android_deskclock_notification_bg_normal_pressed">@drawable/notification_bg_normal_pressed</item>
