@@ -1253,8 +1253,8 @@
     <item name="drawable/background_holo_light">@drawable/background_holo_light</item>
     <item name="drawable/cm_background_holo_dark">@drawable/cm_background_holo_dark</item>
     <item name="color/holo_blue_light">@color/arcee_maincolor</item>
-    <item name="color/holo_blue_dark">@color/arcee_maincolor_dark</item>
-    <item name="color/holo_blue_bright">@color/arcee_maincolor_bright</item>
+    <item name="color/holo_blue_dark">@color/arcee_maincolor</item>
+    <item name="color/holo_blue_bright">@color/arcee_maincolor</item>
     <item name="color/highlighted_text_holo_dark">@color/arcee_maincolor</item>
     <item name="color/highlighted_text_holo_light">@color/arcee_maincolor</item>
     <item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
