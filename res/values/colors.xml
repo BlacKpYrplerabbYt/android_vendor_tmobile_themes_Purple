@@ -100,7 +100,7 @@
 	<color name="suggestion_separator">#ff191919</color>
 	<color name="pane_background">#c08c00ff</color>
 	<color name="arcee_maincolor">#ff8c00ff</color>
-	<color name="arcee_maincolor_dark">#ff673298</color>
+	<color name="arcee_maincolor_dark">#ff8c00ff</color>
 	<color name="arcee_maincolor_bright">#ff8c00ff</color>
 	<!-- clock -->
 	<color name="alarm_selected_color">#aa8300FF</color>
