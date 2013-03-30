@@ -60,7 +60,7 @@
 	<item name="color/clock_blue">@color/arcee_maincolor</item>
 	<item name="color/red">@color/arcee_maincolor_bright</item>
 	<item name="color/notification_bg">@color/black</item>
-	<item name="color/alarm_selected_color">@color/alarm_selected_color</item>
+	<item name="color/alarm_selected_color">@color/arcee_maincolor</item>
 	<item name="color/blackish">@color/blackish</item>
 	<item name="color/blackish_trans">@color/blackish_trans</item>
 	<!-- drawables -->
