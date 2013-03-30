@@ -222,7 +222,14 @@
 	<item name="drawable/q_cling">@drawable/music_q_cling</item>
 	<item name="drawable/scrubber_primary_holo">@drawable/music_scrubber_primary_holo</item>
 	<item name="drawable/scrubber_secondary_holo">@drawable/music_scrubber_secondary_holo</item>
-    <item name="color/error_text">@color/arcee_maincolor</item>
+	<item name="drawable/albumart_mp_unknown_list">@drawable/music_albumart_mp_unknown_list</item>
+	<item name="drawable/defaultart">@drawable/music_defaultart</item>
+	<item name="drawable/defaultart_playall">@drawable/music_defaultart_playall</item>
+	<item name="drawable/defaultart_playlist">@drawable/music_defaultart_playlist</item>
+	<item name="drawable/defaultart_shuffle">@drawable/music_defaultart_shuffle</item>
+	<item name="drawable/glossy_overlay">@drawable/music_glossy_overlay</item>
+	<item name="drawable/ic_album_loading">@drawable/music_ic_album_loading</item>
+	<item name="color/error_text">@color/arcee_maincolor</item>
     <item name="color/alert_color">@color/arcee_maincolor</item>
     <item name="color/carousel_background">@color/arcee_maincolor</item>
     <item name="color/waveform_selected">@color/arcee_maincolor</item>

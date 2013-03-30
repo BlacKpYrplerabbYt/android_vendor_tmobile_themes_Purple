@@ -70,6 +70,10 @@
 	<item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 	<item name="drawable/notification_template_icon_low_bg">@drawable/notification_template_icon_low_bg</item>
 	<item name="drawable/notification_bg">@drawable/com_google_android_deskclock_notification_bg</item>
+	<item name="drawable/com_android_deskclock_notification_bg_normal_pressed">@drawable/notification_bg_normal_pressed</item>
+	<item name="drawable/com_android_deskclock_list_activated_holo">@drawable/frameworks_res_notification_bg_normal_pressed</item>
+	<item name="drawable/toggle_underline_activated">@drawable/com_android_deskclock_toggle_underline_activated</item>
+	<item name="drawable/com_android_deskclock_list_selector_background_pressed">@drawable/frameworks_res_menuitem_background_pressed.9</item>
 
 	
 </resource-redirections>
