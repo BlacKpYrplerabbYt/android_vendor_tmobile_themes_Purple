@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/bg_pressed">@drawable/com_google_android_googlequicksearchbox_bg_pressed</item>
-    <item name="drawable/bg_search_widget">@drawable/com_google_android_googlequicksearchbox_bg_search_widget</item>
+    <item name="drawable/bg_search_widget">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/bg_widget_stripe_dark_pattern">@drawable/com_google_android_googlequicksearchbox_bg_widget_stripe_dark_pattern</item>
     <item name="drawable/bg_widget_stripe_light_pattern">@drawable/com_google_android_googlequicksearchbox_bg_widget_stripe_light_pattern</item>
     <item name="drawable/divider_vertical">@drawable/com_google_android_googlequicksearchbox_divider_vertical</item>

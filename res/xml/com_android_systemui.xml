@@ -179,7 +179,7 @@
 	<item name="drawable/recents_thumbnail_bg_dragging">@drawable/com_android_systemui_recents_thumbnail_bg_dragging</item>
 	<item name="drawable/recents_thumbnail_bg_normal">@drawable/com_android_systemui_recents_thumbnail_bg_normal</item>
 	<item name="drawable/recents_thumbnail_bg_press">@drawable/com_android_systemui_recents_thumbnail_bg_press</item>
-	<item name="drawable/screenshot_panel">@drawable/com_android_systemui_screenshot_panel</item>
+	<item name="drawable/screenshot_panel">@drawable/com_android_systemui_recents_thumbnail_bg</item>
 	<item name="drawable/stat_lock_screen_on">@drawable/com_android_systemui_stat_lock_screen_on</item>
 	<item name="drawable/stat_sys_battery">@drawable/com_android_systemui_stat_sys_battery</item>
 	<item name="drawable/stat_sys_battery_bar">@drawable/com_android_systemui_stat_sys_battery_bar</item>

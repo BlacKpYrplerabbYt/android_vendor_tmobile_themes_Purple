@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/apps_customize_bg">@drawable/launcher_apps_customize_bg</item>
-    <item name="drawable/bg_appwidget_error">@drawable/launcher_bg_appwidget_error</item>
+    <item name="drawable/bg_appwidget_error">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/bg_cling1">@drawable/launcher_bg_cling1</item>
     <item name="drawable/bg_cling2">@drawable/launcher_bg_cling2</item>
     <item name="drawable/bg_cling3">@drawable/launcher_bg_cling3</item>

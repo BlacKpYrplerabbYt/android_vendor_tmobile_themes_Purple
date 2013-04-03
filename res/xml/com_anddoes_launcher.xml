@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="color/info_target_hover_tint">@color/arcee_maincolor</item>
-    <item name="drawable/bg_appwidget_error">@drawable/launcher_bg_appwidget_error</item>
+    <item name="drawable/bg_appwidget_error">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/btn_check_off_holo_dark">@drawable/btn_check_off_holo_dark</item>
     <item name="drawable/btn_check_on_holo_dark">@drawable/frameworks_res_btn_check_on_holo</item>
     <item name="drawable/btn_radio_on_holo_dark">@drawable/frameworks_res_btn_radio_on_holo_dark</item>
@@ -84,7 +84,7 @@
     <item name="drawable/overscroll_glow_right">@drawable/launcher_overscroll_glow_right</item>
     <item name="drawable/page_hover_left_holo">@drawable/launcher_page_hover_left_holo</item>
     <item name="drawable/page_hover_right_holo">@drawable/launcher_page_hover_right_holo</item>
-    <item name="drawable/portal_container_holo">@drawable/launcher_portal_container_holo</item>
+    <item name="drawable/portal_container_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/portal_platform_inner_holo">@drawable/launcher_portal_platform_inner_holo</item>
     <item name="drawable/portal_ring_inner_holo">@drawable/launcher_portal_ring_inner_holo</item>
     <item name="drawable/portal_ring_outer_holo">@drawable/launcher_portal_ring_outer_holo</item>
@@ -93,7 +93,7 @@
     <item name="drawable/apex_launcher_pro_ribbon">@drawable/launcher_apex_launcher_pro_ribbon</item>
     <item name="drawable/screen_preview_background">@drawable/launcher_screen_preview_background</item>
     <item name="drawable/search_bg_panel">@drawable/search_bg_panel</item>
-    <item name="drawable/search_frame">@drawable/launcher_search_frame</item>
+    <item name="drawable/search_frame">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/spinner_default_holo_dark">@drawable/spinner_default_holo_dark</item>
     <item name="drawable/spinner_disabled_holo_dark">@drawable/spinner_disabled_holo_dark</item>
     <item name="drawable/spinner_focused_holo_dark">@drawable/frameworks_res_spinner_focused_holo_dark</item>

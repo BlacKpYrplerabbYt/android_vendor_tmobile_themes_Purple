@@ -24,6 +24,6 @@
     <item name="drawable/list_focused_holo">@drawable/gmail_list_focused_holo</item>
     <item name="drawable/list_pressed_holo">@drawable/gmail_list_pressed_holo</item>
     <item name="drawable/list_selected_holo">@drawable/gmail_list_selected_holo</item>
-    <item name="drawable/panel_undo_holo">@drawable/gmail_panel_undo_holo</item>
+    <item name="drawable/panel_undo_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/presence_away">@drawable/gmail_presence_away</item>
 </resource-redirections>
