@@ -240,5 +240,30 @@
 	<item name="color/contact_detail_fragment">@color/con_contact_detail_fragment</item>
 	<item name="color/call_detail_blank_background">@color/con_call_detail_blank_background</item>
 	<item name="color/call_log_tab_divider">@color/con_call_log_tab_divider</item>
-	
+    <item name="style/DialtactsTheme1">@style/DialtactsTheme1</item>
+    <item name="style/CallDetailActivityTheme1">@style/CallDetailActivityTheme1</item>
+    <item name="style/DetailActivityTheme">@style/DetailActivityTheme</item>
+    <item name="style/EditorActivityTheme">@style/EditorActivityTheme</item>
+    <item name="style/BackgroundOnlyTheme">@style/BackgroundOnlyTheme</item>
+    <item name="style/Theme.QuickContact">@style/Theme.QuickContact</item>
+    <item name="style/PeopleTheme1">@style/PeopleTheme1</item>
+    <item name="style/ContactsActionBarStyle">@style/ContactsActionBarStyle</item>
+    <item name="style/ContactsActionBarDropDownStyle">@style/ContactsActionBarDropDownStyle</item>
+    <item name="style/ContactsActionBarTabView">@style/ContactsActionBarTabView</item>
+    <item name="style/ListViewStyle">@style/ListViewStyle</item>
+    <item name="style/ListViewDropdownStyle">@style/ListViewDropdownStyle</item>
+    <item name="style/ContactsPreferencesTheme">@style/ContactsPreferencesTheme</item>
+    <item name="style/ContactListFilterTheme">@style/ContactListFilterTheme</item>
+    <item name="style/CustomContactListFilterView">@style/CustomContactListFilterView</item>
+    <item name="style/DirectoryHeader">@style/DirectoryHeader</item>
+    <item name="style/NonPhoneActivityTheme">@style/NonPhoneActivityTheme</item>
+    <item name="style/NonPhoneDialogTheme">@style/NonPhoneDialogTheme</item>
+    <item name="style/ConfirmAddDetailDialogTheme">@style/ConfirmAddDetailDialogThemee</item>
+    <item name="style/ContactEditorAccountsChangedActivityTheme">@style/ContactEditorAccountsChangedActivityTheme</item>
+    <item name="style/DialtactsActionBarStyle">@style/DialtactsActionBarStyle</item>
+    <item name="style/QuickContactListBottomStyle">@style/QuickContactListBottomStyle</item>
+    <item name="style/Theme.PhotoSelector">@style/Theme.PhotoSelector</item>
+    <item name="style/ContactListSeparatorTextViewStyle">@style/ContactListSeparatorTextViewStyle</item>
+    <item name="style/PeopleNavigationDropDownTextAppearance">@style/PeopleNavigationDropDownTextAppearance</item>
+    <item name="style/PeopleNavigationDropDownHeaderTextAppearance">@style/PeopleNavigationDropDownHeaderTextAppearance</item>
 </resource-redirections>
