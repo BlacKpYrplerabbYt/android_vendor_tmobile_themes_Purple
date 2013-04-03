@@ -112,7 +112,7 @@
 	<color name="con_shortcut_overlay_text_background">@color/theme_primary_disabled</color>
 	<color name="con_quickcontact_list_divider">@color/theme_secondary_bright</color>
 	<color name="con_quickcontact_list_background">@color/theme_primary</color>
-	<color name="con_quickcontact_tab_indicator">@color/theme_secondary</color>
+	<color name="con_quickcontact_tab_indicator">@color/theme_secondary_bright</color>
 	<color name="con_background_primary">@color/theme_primary</color>
 	<color name="con_background_social_updates">@color/theme_primary_trans</color>
 	<color name="con_section_header_text_color">@color/theme_secondary</color>
