@@ -44,13 +44,13 @@
     <item name="drawable/paged_view_indicator">@drawable/launcher_paged_view_indicator</item>
     <item name="drawable/page_hover_left_holo">@drawable/launcher_page_hover_left_holo</item>
     <item name="drawable/page_hover_right_holo">@drawable/launcher_page_hover_right_holo</item>
-    <item name="drawable/portal_container_holo">@drawable/launcher_portal_container_holo</item>
+    <item name="drawable/portal_container_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/portal_ring_inner_holo">@drawable/launcher_portal_ring_inner_holo</item>
     <item name="drawable/portal_ring_inner_nolip_holo">@drawable/launcher_portal_ring_inner_nolip_holo</item>
     <item name="drawable/portal_ring_outer_holo">@drawable/launcher_portal_ring_outer_holo</item>
     <item name="drawable/portal_ring_rest">@drawable/launcher_portal_ring_rest</item>
     <item name="drawable/search_bg_panel">@drawable/launcher_search_bg_panel</item>
-    <item name="drawable/search_frame">@drawable/launcher_search_frame</item>
+    <item name="drawable/search_frame">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/tab_selected_focused_holo">@drawable/launcher_tab_selected_focused_holo</item>
     <item name="drawable/tab_selected_holo">@drawable/launcher_tab_selected_holo</item>
     <item name="drawable/tab_selected_pressed_focused_holo">@drawable/launcher_tab_selected_pressed_focused_holo</item>

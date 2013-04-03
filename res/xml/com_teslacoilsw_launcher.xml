@@ -85,7 +85,7 @@
     <item name="drawable/overscroll_glow_right">@drawable/launcher_overscroll_glow_right</item>
     <item name="drawable/page_hover_left_holo">@drawable/launcher_page_hover_left_holo</item>
     <item name="drawable/page_hover_right_holo">@drawable/launcher_page_hover_right_holo</item>
-    <item name="drawable/portal_container_holo">@drawable/launcher_portal_container_holo</item>
+    <item name="drawable/portal_container_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/portal_platform_inner_holo">@drawable/launcher_portal_platform_inner_holo</item>
     <item name="drawable/portal_ring_inner_holo">@drawable/launcher_portal_ring_inner_holo</item>
     <item name="drawable/portal_ring_outer_holo">@drawable/launcher_portal_ring_outer_holo</item>
@@ -94,7 +94,7 @@
     <item name="drawable/preference_prime_ribbon">@drawable/launcher_preference_prime_ribbon</item>
     <item name="drawable/screen_preview_background">@drawable/launcher_screen_preview_background</item>
     <item name="drawable/search_bg_panel">@drawable/search_bg_panel</item>
-    <item name="drawable/search_frame">@drawable/launcher_search_frame</item>
+    <item name="drawable/search_frame">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/spinner_default_holo_dark">@drawable/spinner_default_holo_dark</item>
     <item name="drawable/spinner_disabled_holo_dark">@drawable/spinner_disabled_holo_dark</item>
     <item name="drawable/spinner_focused_holo_dark">@drawable/frameworks_res_spinner_focused_holo_dark</item>
