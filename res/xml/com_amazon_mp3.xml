@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/widget_background">@drawable/appwidget_light_bg</item>
+    <item name="drawable/widget_background">@drawable/appwidget_bg</item>
 </resource-redirections>

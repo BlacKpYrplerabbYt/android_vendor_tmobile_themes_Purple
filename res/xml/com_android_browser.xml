@@ -2,9 +2,9 @@
 <resource-redirections>
     <item name="drawable/app_web_browser_sm">@drawable/browser_app_web_browser_sm</item>
     <item name="drawable/bg_bookmarks_widget_holo">@drawable/appwidget_bg</item>
-    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_focused">@drawable/appwidget_bg</item>
     <item name="drawable/bookmarks_widget_thumb_selector_longpressed">@drawable/browser_bookmarks_widget_thumb_selector_longpressed</item>
-    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/appwidget_bg_press</item>
+    <item name="drawable/bookmarks_widget_thumb_selector_pressed">@drawable/appwidget_bg</item>
     <item name="drawable/border_thumb_bookmarks_widget_holo">@drawable/browser_border_thumb_bookmarks_widget_holo</item>
     <item name="drawable/browsertab_add">@drawable/browser_browsertab_add</item>
     <item name="drawable/browsertab_add_focused">@drawable/browser_browsertab_add_focused</item>

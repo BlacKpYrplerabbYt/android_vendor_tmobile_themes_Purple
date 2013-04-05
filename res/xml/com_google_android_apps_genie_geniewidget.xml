@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/appwidget_bg_focused_holo">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg_focused_holo">@drawable/appwidget_bg</item>
     <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg</item>
-    <item name="drawable/appwidget_bg_pressed_holo">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_bg_pressed_holo">@drawable/appwidget_bg</item>
     <item name="drawable/appwidget_inner_focused_c_holo">@drawable/appwidget_inner_focus_c</item>
     <item name="drawable/appwidget_inner_focused_l_holo">@drawable/appwidget_inner_focus_l</item>
     <item name="drawable/appwidget_inner_focused_r_holo">@drawable/appwidget_inner_focus_r</item>
@@ -31,5 +31,5 @@
     <item name="drawable/weather_info_btn">@drawable/geniewidget_weather_info_btn</item>
     <item name="drawable/weather_info_btn_clicked">@drawable/geniewidget_weather_info_btn_clicked</item>
     <item name="drawable/weather_info_btn_rev">@drawable/geniewidget_weather_info_btn_rev</item>
-    <item name="drawable/widget_bg">@drawable/geniewidget_widget_bg</item>
+    <item name="drawable/widget_bg">@drawable/appwidget_bg</item>
 </resource-redirections>
