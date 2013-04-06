@@ -266,5 +266,10 @@
         <item name="android:windowAnimationStyle">@style/RecognitionAnimation</item>
         <item name="android:windowActionBar">false</item>
     </style>
+	<style name="RecognitionAnimation">
+        <item name="android:windowEnterAnimation">@anim/holo_window_in</item>
+        <item name="android:windowExitAnimation">@anim/holo_window_out</item>
+    </style>
     <style name="InAppWebViewTheme" parent="@*android:style/Theme.Holo" />
 </resources>
+
