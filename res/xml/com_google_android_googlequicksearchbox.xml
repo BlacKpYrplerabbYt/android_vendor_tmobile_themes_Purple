@@ -43,10 +43,10 @@
 	<item name="drawable/vs_micbtn_pressed">@drawable/com_google_android_googlequicksearchbox_vs_micbtn_pressed</item>
 	<item name="drawable/vs_micbtn_rec">@drawable/com_google_android_googlequicksearchbox_vs_micbtn_rec</item>
 	<item name="drawable/bg_pressed">@drawable/list_pressed_holo</item>
-	<item name="drawable/dialog_full_holo_dark">@drawable/framework_res_dialog_full_holo_dark</item>
+	<item name="drawable/dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
 	<item name="drawable/ic_action_send_normal">@drawable/com_google_android_gm_ic_menu_send_holo_light</item>
 	<item name="drawable/ic_google_small_dark_pressed">@drawable/ic_google_small_dark_pressed</item>
-	<item name="drawable/overscroll_edge">@drawable/framework_res_overscroll_edge</item>
+	<item name="drawable/overscroll_edge">@drawable/frameworks_res_overscroll_edge</item>
 	<item name="drawable/search_bg">@drawable/search_bg</item>
 	<item name="drawable/search_bg_shadow">@drawable/search_bg_shadow</item>
 	<item name="drawable/search_widget_preview">@drawable/search_widget_preview</item>
@@ -55,8 +55,11 @@
 	<item name="drawable/bg_widget_stripe_light_pattern">@drawable/bg_widget_stripe_light_pattern</item>
 	<item name="drawable/help_connector">@drawable/help_connector</item>
 	<item name="drawable/ic_action_send_pressed">@drawable/com_google_android_gm_ic_menu_send_disabled_holo_light</item>
-	<item name="drawable/overscroll_glow">@drawable/framework_res_overscroll_glow</item>
+	<item name="drawable/overscroll_glow">@drawable/frameworks_res_overscroll_glow</item>
 <!-- styles -->
+	<item name="style/Theme.Slot">@style/Theme.Slot</item>
+	<item name="style/Theme.VoiceSearch">@style/Theme.VoiceSearch</item>
+	<item name="style/Theme.Suggestion">@style/Theme.Suggestion</item>
 	<item name="style/FirstRunButton">@style/FirstRunButton</item>
 	<item name="style/InAppWebViewTheme">@style/InAppWebViewTheme</item>
 	<item name="style/Theme.HandsFree">@style/Theme.HandsFree</item>
