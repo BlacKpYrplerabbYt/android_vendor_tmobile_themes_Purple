@@ -271,5 +271,8 @@
         <item name="android:windowExitAnimation">@anim/holo_window_out</item>
     </style>
     <style name="InAppWebViewTheme" parent="@*android:style/Theme.Holo" />
+	    <style name="com_twitter_android_Theme.Dialog" parent="@*android:style/Theme.Holo.Dialog">
+        <item name="android:windowTitleStyle">@*android:style/TextAppearance.Holo.Large</item>
+    </style>
 </resources>
 
