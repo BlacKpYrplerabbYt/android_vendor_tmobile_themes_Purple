@@ -32,6 +32,7 @@
 	<color name="link_text_dark">#ff8c00ff</color>
 	<color name="link_text_light">#ff8c00ff</color>
 	<color name="suggestion_highlight_text">#ff8c00ff</color>
+    <color name="light_gray">#ffbbbbbb</color>
 	<color name="lighter_gray">#ffdddddd</color>
 	<color name="perms_dangerous_grp_color">#ff8c00ff</color>
 	<color name="perms_dangerous_perm_color">#ff8c00ff</color>

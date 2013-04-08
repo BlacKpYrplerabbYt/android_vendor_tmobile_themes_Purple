@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/emptyContentTextView">@style/com_adobe_reader_emptyContentTextView</item>
+    <item name="color/about_dlg_background">@color/black</item>
+    <item name="color/black">@color/white</item>
+    <item name="color/bookmark_panel_selected_row_color">@color/arcee_maincolor</item>
+    <item name="color/directory_entry_background">@color/black</item>
+    <item name="color/fb_divider_color">@color/arcee_maincolor_trans</item>
+    <item name="color/file_entry_unpressed_color">@color/black</item>
+    <item name="color/item_pressed_state_color">@color/arcee_maincolor</item>
+    <item name="color/left_pane_entry_normal">@color/black</item>
+    <item name="color/left_pane_entry_selected">@color/arcee_maincolor_trans</item>
+    <item name="color/left_pane_entry_text_color">@color/light_gray</item>
+    <item name="color/toolbar_textbutton_disabled">@color/black</item>
+    <item name="color/toolbar_textbutton_normal">@color/theme_primary_dark</item>
+    <item name="color/toolbar_textbutton_pressed">@color/theme_secondary_dark</item>
+    <item name="color/white">@color/white</item>
+    <item name="drawable/about_dlg_background">@color/black</item>
+    <item name="drawable/bookmark_title_text_color_selector">@color/white</item>
+    <item name="drawable/file_entry_second_layer_text_color_selector">@color/white</item>
+    <item name="drawable/file_entry_text_color_selector">@color/white</item>
+    <item name="drawable/file_list_panel_border">@color/black</item>
+    <item name="drawable/mp_levelup_md_n_lt">@drawable/com_android_deskclock_ic_menu_revert_holo_dark</item>
+    <item name="drawable/split_pane_topbar_drawable">@color/black</item>
+</resource-redirections>
