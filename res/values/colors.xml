@@ -102,6 +102,7 @@
 	<color name="arcee_maincolor">#ff8c00ff</color>
 	<color name="arcee_maincolor_dark">#ff8c00ff</color>
 	<color name="arcee_maincolor_bright">#ff8c00ff</color>
+	<color name="arcee_maincolor_trans">#608c00ff</color>
 	<!-- clock -->
 	<color name="alarm_selected_color">#aa8300FF</color>
 	<color name="blackish">#ff000000</color>
