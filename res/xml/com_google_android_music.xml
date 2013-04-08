@@ -5,7 +5,7 @@
     <item name="drawable/ab_bottom_transparent_dark_holo">@drawable/music_ab_bottom_transparent_dark_holo</item>
     <item name="drawable/ab_transparent_dark_holo">@drawable/music_ab_transparent_dark_holo</item>
     <item name="drawable/bg_make_available_offline_panel">@drawable/music_bg_make_available_offline_panel</item>
-    <item name="drawable/btn_cling_normal">@drawable/music_btn_cling_normal</item>
+    <item name="drawable/btn_cling_normal">@drawable/btn_cling_normal</item>
     <item name="drawable/btn_cling_pressed">@drawable/music_btn_cling_pressed</item>
     <item name="drawable/btn_collapse_group_focused_holo_dark">@drawable/music_btn_collapse_group_focused_holo_dark</item>
     <item name="drawable/btn_collapse_group_normal_holo_dark">@drawable/music_btn_collapse_group_normal_holo_dark</item>
@@ -236,4 +236,26 @@
     <item name="color/grid_line">@color/arcee_maincolor</item>
     <item name="color/button_pressed">@color/arcee_maincolor</item>
     <item name="color/divider_color">@color/arcee_maincolor_dark</item>
+    <item name="color/action_bar_selected_bg">@color/theme_secondary_dark</item>
+    <item name="color/appwidget_text">@color/arcee_maincolor</item>
+    <item name="color/appwidget_text_primary">@color/arcee_maincolor</item>
+    <item name="color/button_normal">#88000000</item>
+    <item name="color/current_text">@color/white</item>
+    <item name="color/dim_foreground_dark">@color/arcee_maincolor</item>
+    <item name="color/holo_blue_light">@color/arcee_maincolor</item>
+    <item name="color/manage_music_color">@color/arcee_maincolor</item>
+    <item name="color/no_waveform_bg">@color/black</item>
+    <item name="color/now_playing_album_artist_color">@color/arcee_maincolor</item>
+    <item name="color/now_playing_label_color">@color/arcee_maincolor</item>
+    <item name="color/now_playing_list_bg">@color/transparent</item>
+    <item name="color/now_playing_title_bar">@color/transparent</item>
+    <item name="color/now_playing_track_color">@color/arcee_maincolor</item>
+    <item name="color/played_text">@color/light_gray</item>
+    <item name="color/primary_text_color">@color/com_twitter_android_tab_item_title</item>
+    <item name="color/pure_black_bg">@color/black</item>
+    <item name="color/search_list_header_background">@color/black</item>
+    <item name="color/secondary_text_color">@color/com_twitter_android_tab_item_title</item>
+    <item name="color/waveform_unselected">@color/black</item>
+    <item name="color/waveform_unselected_bkgnd_overlay">@color/black</item>
+    <item name="color/yellow_cover">#88000000</item>
 </resource-redirections>

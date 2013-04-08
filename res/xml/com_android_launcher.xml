@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/apps_customize_bg">@drawable/launcher_apps_customize_bg</item>
+    <item name="drawable/apps_customize_bg">@drawable/apps_customize_bg</item>
     <item name="drawable/bg_appwidget_error">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/bg_cling1">@drawable/launcher_bg_cling1</item>
     <item name="drawable/bg_cling2">@drawable/launcher_bg_cling2</item>
     <item name="drawable/bg_cling3">@drawable/launcher_bg_cling3</item>
     <item name="drawable/bg_cling4">@drawable/launcher_bg_cling4</item>
-    <item name="drawable/btn_cling_normal">@drawable/launcher_btn_cling_normal</item>
+    <item name="drawable/btn_cling_normal">@drawable/btn_cling_normal</item>
     <item name="drawable/btn_cling_pressed">@drawable/launcher_btn_cling_pressed</item>
     <item name="drawable/cling">@drawable/launcher_cling</item>
     <item name="drawable/default_widget_preview_holo">@drawable/launcher_default_widget_preview_holo</item>
@@ -65,7 +65,7 @@
     <item name="drawable/widget_resize_handle_left">@drawable/launcher_widget_resize_handle_left</item>
     <item name="drawable/widget_resize_handle_right">@drawable/launcher_widget_resize_handle_right</item>
     <item name="drawable/widget_resize_handle_top">@drawable/launcher_widget_resize_handle_top</item>
-    <item name="btn_cling_normal">@drawable/launcher_btn_cling_normal</item>
+    <item name="btn_cling_normal">@drawable/btn_cling_normal</item>
     <item name="btn_cling_pressed">@drawable/launcher_btn_cling_pressed</item>
     <item name="default_widget_preview_holo">@drawable/launcher_default_widget_preview_holo</item>
     <item name="draganddrop_tile_longpress">@drawable/launcher_draganddrop_tile_longpress</item>

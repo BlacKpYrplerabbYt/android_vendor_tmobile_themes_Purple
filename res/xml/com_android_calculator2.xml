@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_calculator">@mipmap/ic_launcher_calculator</item>
+    <item name="color/background">@color/black</item>
+    <item name="color/button_text">@color/white</item>
+    <item name="color/graph_color">@color/white</item>
+    <item name="color/history_result">@color/light_gray</item>
+    <item name="color/magic_flame">@color/transparent</item>
+    <item name="color/pressed_color">@color/arcee_maincolor</item>
+    <item name="drawable/btn_cling_normal">@drawable/btn_cling_normal</item>
+    <item name="drawable/btn_cling_pressed">@drawable/btn_cling_pressed</item>
+    <item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_dark_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_dark_pressed_holo</item>
+    <item name="drawable/btn_keyboard_key_light_normal_holo">@drawable/com_android_calculator2_btn_keyboard_key_light_normal_holo</item>
+    <item name="drawable/btn_keyboard_key_light_pressed_holo">@drawable/com_android_calculator2_btn_keyboard_key_light_pressed_holo</item>
+    <item name="drawable/calculator_input_field">@drawable/ab_solid_dark_holo</item>
+    <item name="drawable/cling">@drawable/cling</item>
+    <item name="drawable/ic_menu_overflow">@drawable/com_android_contacts_ic_menu_overflow</item>
+</resource-redirections>

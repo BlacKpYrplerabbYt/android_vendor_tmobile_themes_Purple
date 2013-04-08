@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="style/ActionBarCompat">@style/com_android_email_PlainEditText</item>
     <item name="drawable/appwidget_bg_focused_holo">@drawable/appwidget_bg</item>
     <item name="drawable/appwidget_bg_holo">@drawable/appwidget_bg</item>
     <item name="drawable/appwidget_bg_pressed_holo">@drawable/appwidget_bg</item>
@@ -12,6 +13,10 @@
     <item name="drawable/preview">@drawable/geniewidget_preview</item>
     <item name="drawable/loadingbar">@drawable/geniewidget_loadingbar</item>
     <item name="drawable/blue_button_unselected">@drawable/geniewidget_blue_button_unselected</item>
+    <item name="color/newsitem_background_pressed">@color/arcee_maincolor</item>
+    <item name="color/tab_background">@color/black</item>
+    <item name="color/tab_bottom_border">@color/arcee_maincolor</item>
+    <item name="color/tab_bottom_border_active">@color/theme_secondary_dark</item>
     <item name="color/tab_bottom_border_active">@color/arcee_maincolor</item>
     <item name="color/tab_background">@color/black</item>
     <item name="drawable/bg_weather_panel_app">@drawable/geniewidget_bg_weather_panel_app</item>

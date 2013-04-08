@@ -283,5 +283,274 @@
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">fill_parent</item>
     </style>
+    <style name="com_android_calendar_CalendarTheme.WithActionBar" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:startYear">1970</item>
+        <item name="android:endYear">2036</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarStyle">@style/com_android_calendar_CalendarActionBarStyle</item>
+    </style>
+    <style name="com_android_calendar_CalendarActionBarStyle" parent="@*android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+    <style name="com_android_vending_FinskyTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:ratingBarStyleSmall">@style/com_android_vending_FinskyRatingBarSmall</item>
+        <item name="android:actionMenuTextColor">@color/light_gray</item>
+    </style>
+    <style name="com_android_vending_FinskyActionBarStyle" parent="@*android:style/TextAppearance.Large">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/com_android_vending_bkgd_tile_black</item>
+    </style>
+    <style name="com_android_vending_FinskyRatingBarSmall" parent="@*android:style/Widget.RatingBar">
+        <item name="android:background">#00000000</item>
+        <item name="android:button">@null</item>
+        <item name="android:maxHeight">14.0dip</item>
+        <item name="android:progressDrawable">@drawable/com_android_vending_custom_ratingbar</item>
+        <item name="android:minHeight">14.0dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="com_facebook_bookmark_divider_text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#7f000000</item>
+        <item name="android:capitalize">characters</item>
+    </style>
+    <style name="com_facebook_publisher_button_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:focusable">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_facebook_Theme" parent="@*android:style/Theme.Holo" />
+    <style name="com_facebook_Theme.FacebookDark" parent="@*android:style/Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_facebook_Theme.Facebook" parent="@*android:style/Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Facebook.Preferences" parent="@*android:style/Theme.Holo" />
+    <style name="com_android_calendar_CalendarTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_facebook_Theme.Orca.Preferences" parent="@*android:style/Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="com_facebook_Theme.Orca" parent="@*android:style/Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_facebook_Theme.OrcaTransparent" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_facebook_Theme.Orca.ClickableRow" parent="@*android:style/Theme.Holo">
+        <item name="android:background">@drawable/list_selector_holo_black</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="com_google_android_apps_docs_CakemixTheme.Dialog" parent="@*android:style/Theme.Holo.Dialog" />
+    <style name="com_google_android_youtube_SystemTheme" parent="@*android:style/Theme.Holo" />
+    <style name="com_google_android_apps_docs_PreviewFragmentSharingItemText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_google_android_apps_docs_PreviewFragmentSharingItemText.Indent.SectionTitle" parent="@style/com_google_android_apps_docs_PreviewFragmentSharingItemText">
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:layout_marginTop">20.0dip</item>
+    </style>
+    <style name="com_android_email_EmailTheme" parent="@*android:style/Theme.Holo" />
+    <style name="com_android_email_PlainEditText" parent="@*android:style/Widget.Holo.EditText">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="com_android_email_ComposeBodyStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/holo_blue_light</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">42.0dip</item>
+        <item name="android:inputType">textLongMessage|textCapSentences|textAutoCorrect|textMultiLine</item>
+        <item name="android:imeOptions">actionDone|flagNoFullscreen|flagNoEnterAction</item>
+    </style>
+    <style name="com_android_email_unreadCount">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="com_android_email_unreadCountActionBar" parent="@style/com_android_email_unreadCount">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <style name="com_android_email_ComposeEditTextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">40.0dip</item>
+    </style>
+    <style name="com_android_email_RecipientEditTextViewStyle" parent="@*android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">42.0dip</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+        <item name="android:inputType">textMultiLine|textEmailAddress</item>
+        <item name="android:imeOptions">actionNext|flagNoFullscreen</item>
+        <item name="android:dropDownHorizontalOffset">-16.0dip</item>
+        <item name="android:dropDownVerticalOffset">-6.0dip</item>
+    </style>
+    <style name="com_google_android_gm_ShortcutWidgetTheme" parent="@*android:style/Theme.Holo.DialogWhenLarge" />
+    <style name="com_google_android_gm_UnifiedEmailTheme" parent="@*android:style/Theme.Holo">
+        <item name="android:listViewWhiteStyle">@*android:style/Widget.Holo.ListView</item>
+        <item name="android:actionDropDownStyle">@style/com_google_android_gm_PlainSpinnerDropdown</item>
+    </style>
+    <style name="com_google_android_gm_PlainSpinnerDropdown" parent="@*android:style/Widget.Holo.Spinner">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="com_google_android_gm_ListViewWhiteCustom" parent="@*android:style/Widget.Holo.ListView" />
+    <style name="com_google_android_gm_PlainActionBarStyle" parent="@*android:style/Widget.Holo.ActionBar.Solid" />
+    <style name="com_google_android_gm_WaitFragmentTitle" parent="@*android:style/Widget.Holo.TextView">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+    </style>
+    <style name="com_google_android_gm_ComposeFieldLayout" parent="@*android:style/Widget.Holo.EditText">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="com_google_android_gm_RecipientComposeFieldLayout" parent="@style/com_google_android_gm_ComposeFieldLayout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="com_google_android_gm_WidgetSubtitle" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle.Inverse">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_google_android_gm_SubjectStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/theme_secondary_dark</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">-4.0sp</item>
+        <item name="android:lines">2</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="com_google_android_apps_plus_FlatButtonBar">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50.0dip</item>
+    </style>
+    <style name="com_google_android_apps_plus_FlatButtonBorder">
+        <item name="android:background">@color/black</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="com_google_android_apps_plus_Signup.Entry.Checkbox.Title" parent="@style/com_google_android_apps_plus_FlatButtonBorder">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Theme.Holo.Light" parent="@*android:style/Theme.Holo.Light">
+        <item name="android:panelBackground">@drawable/frameworks_res_menu_hardkey_panel_holo_dark</item>
+        <item name="android:panelColorForeground">@color/white</item>
+        <item name="android:panelColorBackground">@color/black</item>
+        <item name="android:editTextColor">@color/light_gray</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_holo_dark</item>
+    </style>
+    <style name="Theme.Holo.Light.Dialog" parent="@*android:style/Theme.Holo.Dialog">
+        <item name="android:textAppearance">@*android:style/TextAppearance.Holo</item>
+        <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Inverse</item>
+        <item name="android:textColorPrimary">@color/holo_blue_light</item>
+        <item name="android:textColorSecondary">@color/light_gray</item>
+        <item name="android:editTextColor">@color/holo_blue_light</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_holo_dark</item>
+    </style>
+    <style name="Theme.Holo.Light.DarkActionBar" parent="@style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:textColor">@color/holo_blue_light</item>
+        <item name="android:actionMenuTextColor">@color/lighter_gray</item>
+    </style>
+    <style name="com_google_android_apps_reader_WidgetTextView" parent="@*android:style/Widget.Holo.TextView">
+        <item name="android:textColorLink">@color/arcee_maincolor</item>
+        <item name="android:textColorLinkInverse">@color/arcee_maincolor</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@*android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/arcee_maincolor</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_Theme.Velvet" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowSoftInputMode">stateUnchanged|adjustPan</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_FirstRunButton">
+        <item name="android:textSize">25.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:background">@drawable/list_selector_holo_dark</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_Theme.TheGoogle" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_Theme.HandsFree" parent="@*android:style/Theme.Holo">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@*android:style/Animation.Dialog</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_Theme.Voice" parent="@*android:style/Theme.Holo">
+        <item name="android:textSize">32.0dip</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="com_google_android_googlequicksearchbox_InAppWebViewTheme" parent="@*android:style/Theme.Holo" />
+    <style name="TextAppearance.Widget.DropDownItem" parent="@*android:style/TextAppearance.Widget">
+        <item name="android:textColor">@color/lighter_gray</item>
+    </style>
 </resources>
 

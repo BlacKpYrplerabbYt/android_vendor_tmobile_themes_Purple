@@ -24,4 +24,19 @@
     <item name="drawable/thumb_selected">@drawable/gallery2_thumb_selected</item>
     <item name="color/translucent_cyan">@color/arcee_maincolor</item>
     <item name="color/opaque_cyan">@color/arcee_maincolor</item>
+    <item name="color/album_background">@color/black</item>
+    <item name="color/albumset_background">@color/black</item>
+    <item name="color/albumset_label_background">@color/halftransparentblack</item>
+    <item name="color/background_main_toolbar">@color/black</item>
+    <item name="color/background_screen">@color/black</item>
+    <item name="color/background_toolbar">@color/black</item>
+    <item name="color/holo_blue_light">@color/arcee_maincolor</item>
+    <item name="color/mode_selection_border">@color/arcee_maincolor</item>
+    <item name="color/pano_progress_done">@color/arcee_maincolor</item>
+    <item name="color/pano_progress_indication">@color/arcee_maincolor</item>
+    <item name="color/photo_background">@color/black</item>
+    <item name="color/popup_background">@color/black</item>
+    <item name="color/popup_title_color">@color/arcee_maincolor</item>
+    <item name="color/review_control_pressed_color">@color/arcee_maincolor</item>
+    <item name="color/review_control_pressed_fan_color">@color/arcee_maincolor</item>
 </resource-redirections>
