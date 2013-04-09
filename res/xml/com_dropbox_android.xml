@@ -5,13 +5,12 @@
     <item name="color/darkBlueText">@color/lighter_gray</item>
     <item name="color/filelist_text_name">@color/com_dropbox_android_filelist_text_name</item>
     <item name="color/filelistBackground">@color/black</item>
-    <item name="color/filelistItemPressed">@color/arcee_maincolor_trans</item>
+    <item name="color/filelistItemPressed">@color/com_android_mms_unread_bgcolor</item>
     <item name="color/folderTitleBackground">@color/black</item>
     <item name="color/lightBlueBackground">@color/black</item>
     <item name="color/mediumGrayText">@color/gray</item>
     <item name="color/photoTabBackground">@color/black</item>
     <item name="color/titleBarText">@color/arcee_maincolor</item>
-	
     <item name="drawable/abs__ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/abs__ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
     <item name="drawable/abs__ab_bottom_solid_light_holo">@drawable/frameworks_res_ab_bottom_solid_light_holo</item>

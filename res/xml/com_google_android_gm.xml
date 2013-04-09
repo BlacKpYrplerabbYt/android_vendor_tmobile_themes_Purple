@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/panel_conversation_leftstroke">@drawable/gmail_panel_conversation_leftstroke</item>
+    <item name="drawable/unread_list_unread_holo">@drawable/gmail_unread_list_unread_holo</item>
     <item name="drawable/stat_notify_email">@drawable/gmail_motion_icon</item>
     <item name="drawable/ab_bottom_solid_light_holo">@drawable/gmail_ab_bottom_solid_light_holo</item>
     <item name="drawable/ab_solid_light_holo">@drawable/gmail_ab_solid_light_holo</item>
@@ -14,6 +16,7 @@
     <item name="drawable/chip_background_invalid">@drawable/gmail_chip_background_invalid</item>
     <item name="drawable/chip_background_selected">@drawable/gmail_chip_background_selected</item>
     <item name="drawable/header_bg_gmail_widget_holo">@drawable/gmail_header_bg_gmail_widget_holo</item>
+    <item name="drawable/gradient_bg_gmail_widget_holo">@drawable/gmail_gradient_bg_gmail_widget_holo</item>
     <item name="drawable/header_convo_view_sender_bg_holo">@drawable/gmail_header_convo_view_sender_bg_holo</item>
     <item name="drawable/ic_email_caret_double_important_unread">@drawable/gmail_ic_email_caret_double_important_unread</item>
     <item name="drawable/ic_email_caret_none_important_unread">@drawable/gmail_ic_email_caret_none_important_unread</item>
@@ -26,6 +29,13 @@
     <item name="drawable/list_selected_holo">@drawable/gmail_list_selected_holo</item>
     <item name="drawable/panel_undo_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/presence_away">@drawable/gmail_presence_away</item>
+    <item name="drawable/super_collapsed_thread_stack_2_holo_light">@drawable/gmail_super_collapsed_thread_stack_2_holo_light</item>
+    <item name="drawable/super_collapsed_thread_stack_3plus_holo_light">@drawable/gmail_super_collapsed_thread_stack_3plus_holo_light</item>
+    <item name="drawable/list_read_holo">@drawable/gmail_list_read_holo</item>
+    <item name="drawable/banner_background_search">@drawable/gmail_banner_background_search</item>
+    <item name="drawable/list_unread_holo">@drawable/gmail_list_unread_holo</item>
+    <item name="drawable/header_convo_view_thread_bg_holo">@drawable/gmail_header_convo_view_thread_bg_holo</item>
+    <item name="drawable/label_bg_holo_light">@drawable/gmail_label_bg_holo_light</item>
     <item name="style/ComposeBodyStyle">@style/com_android_email_ComposeBodyStyle</item>
     <item name="style/ComposeEditTextView">@style/com_android_email_ComposeEditTextView</item>
     <item name="style/ComposeFieldLayout">@style/com_android_email_ComposeFieldLayout</item>
