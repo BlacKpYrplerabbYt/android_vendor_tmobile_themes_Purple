@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/ic_contact_picture">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
 	<item name="drawable/ic_edit_holo_dark">@drawable/gmail_ic_edit_holo_dark</item>
 	<item name="drawable/ic_email_caret_double">@drawable/gmail_ic_email_caret_double</item>
 	<item name="drawable/ic_email_caret_single">@drawable/gmail_ic_email_caret_single</item>
