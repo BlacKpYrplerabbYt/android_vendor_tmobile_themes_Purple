@@ -74,10 +74,10 @@
     <item name="drawable/list_unread_holo">@drawable/gmail_list_unread_holo</item>
     <item name="drawable/header_convo_view_thread_bg_holo">@drawable/gmail_header_convo_view_thread_bg_holo</item>
     <item name="drawable/label_bg_holo_light">@drawable/gmail_label_bg_holo_light</item>
-    <item name="drawable/spinner_ab_default_holo_light">@drawable/frameworks_res_spinner_holo_normal</item>
+    <item name="drawable/spinner_ab_default_holo_light">@drawable/frameworks_res_spinner_ab_default_holo_dark</item>
     <item name="drawable/spinner_ab_disabled_holo_light">@drawable/frameworks_res_spinner_holo_disabled</item>
-    <item name="drawable/spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_holo_focused</item>
-    <item name="drawable/spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_holo_pressed</item>
+    <item name="drawable/spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_ab_focused_holo_dark</item>
+    <item name="drawable/spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_ab_pressed_holo_dark</item>
     <item name="style/ComposeBodyStyle">@style/com_android_email_ComposeBodyStyle</item>
     <item name="style/ComposeEditTextView">@style/com_android_email_ComposeEditTextView</item>
     <item name="style/ComposeFieldLayout">@style/com_android_email_ComposeFieldLayout</item>

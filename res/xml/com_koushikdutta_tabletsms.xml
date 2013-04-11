@@ -27,7 +27,7 @@
 	<item name="drawable/abs__cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
 	<item name="drawable/abs__cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
 	<item name="drawable/abs__dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
-	<item name="drawable/abs__dialog_full_holo_light">@drawable/frameworks_res_dialog_full_holo_light</item>
+	<item name="drawable/abs__dialog_full_holo_light">@drawable/frameworks_res_dialog_full_holo_dark</item>
 	<item name="drawable/abs__ic_ab_back_holo_dark">@drawable/frameworks_res_ic_ab_back_holo_dark</item>
 	<item name="drawable/abs__ic_ab_back_holo_light">@drawable/frameworks_res_ic_ab_back_holo_light</item>
 	<item name="drawable/abs__ic_cab_done_holo_dark">@drawable/frameworks_res_ic_cab_done_holo_dark</item>
