@@ -41,7 +41,7 @@
     <item name="drawable/btn_video_shutter_recording_pressed_holo">@drawable/camera_btn_video_shutter_recording_pressed_holo</item>
     <item name="drawable/btn_wheel_close_settings">@drawable/camera_btn_wheel_close_settings</item>
     <item name="drawable/btn_zoom_control">@drawable/camera_btn_zoom_control</item>
-    <item name="drawable/dialog_full_holo_dark">@drawable/camera_dialog_full_holo_dark</item>
+    <item name="drawable/dialog_full_holo_dark">@drawable/frameworks_res_dialog_top_holo_dark</item>
     <item name="drawable/ic_effects_holo_light">@drawable/camera_ic_effects_holo_light</item>
     <item name="drawable/ic_exposure_holo_light">@drawable/camera_ic_exposure_holo_light</item>
     <item name="drawable/ic_flash_auto_holo_light">@drawable/camera_ic_flash_auto_holo_light</item>
