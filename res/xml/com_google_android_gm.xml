@@ -20,7 +20,7 @@
 	<item name="drawable/ic_menu_expander_minimized_holo_light">@drawable/gmail_ic_menu_expander_minimized_holo_light</item>
 	<item name="drawable/ic_menu_inbox_holo_light">@drawable/gmail_ic_menu_inbox_holo_light</item>
 	<item name="drawable/ic_menu_labels_disabled_holo_light">@drawable/gmail_ic_menu_labels_disabled_holo_light</item>
-	<item name="drawable/ic_menu_labels_holo_light">@drawable/gmail_ic_menu_labels_holo_light</item>
+	<item name="drawable/ic_menu_folders_holo_light">@drawable/gmail_ic_menu_labels_holo_light</item>
 	<item name="drawable/ic_menu_mark_read_holo_light">@drawable/gmail_ic_menu_mark_read_holo_light</item>
 	<item name="drawable/ic_menu_mark_unread_holo_light">@drawable/gmail_ic_menu_mark_unread_holo_light</item>
 	<item name="drawable/ic_menu_refresh_holo_light">@drawable/gmail_ic_menu_refresh_holo_light</item>
