@@ -135,7 +135,7 @@
 	<item name="drawable/quickcontact_badge_overlay_normal_light">@drawable/com_android_contacts_quickcontact_badge_overlay_normal_light</item>
 	<item name="drawable/quickcontact_badge_overlay_pressed_light">@drawable/com_android_contacts_quickcontact_badge_overlay_pressed_light</item>
 	<item name="drawable/quickcon_background_texture">@drawable/com_android_contacts_quickcon_background_texture</item>
-	<item name="drawable/spinner_default_holo_dark">@drawable/frameworks_res_spinner_ab_default_holo_dark</item>
+	<item name="drawable/spinner_default_holo_dark">@drawable/com_android_contacts_spinner_default_holo_dark</item>
 	<item name="drawable/sym_action_audiochat_holo_light">@drawable/com_android_contacts_sym_action_audiochat_holo_light</item>
 	<item name="drawable/sym_action_videochat_holo_light">@drawable/com_android_contacts_sym_action_videochat_holo_light</item>
 	<item name="drawable/tab_focused">@drawable/frameworks_res_tab_focused</item>

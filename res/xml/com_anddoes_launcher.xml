@@ -96,7 +96,7 @@
     <item name="drawable/search_frame">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/spinner_default_holo_dark">@drawable/spinner_default_holo_dark</item>
     <item name="drawable/spinner_disabled_holo_dark">@drawable/spinner_disabled_holo_dark</item>
-    <item name="drawable/spinner_focused_holo_dark">@drawable/frameworks_res_spinner_ab_focused_holo_dark</item>
+    <item name="drawable/spinner_focused_holo_dark">@drawable/frameworks_res_spinner_focused_holo_dark</item>
     <item name="drawable/spinner_pressed_holo_dark">@drawable/frameworks_res_spinner_pressed_holo_dark</item>
     <item name="drawable/sym_def_app_icon">@drawable/sym_def_app_icon</item>
     <item name="drawable/tab_selected_focused_holo">@drawable/launcher_tab_selected_focused_holo</item>

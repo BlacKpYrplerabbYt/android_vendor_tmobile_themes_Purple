@@ -27,7 +27,7 @@
 	<item name="drawable/abs__cab_background_top_holo_dark">@drawable/frameworks_res_cab_background_top_holo_dark</item>
 	<item name="drawable/abs__cab_background_top_holo_light">@drawable/frameworks_res_cab_background_top_holo_light</item>
 	<item name="drawable/abs__dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
-	<item name="drawable/abs__dialog_full_holo_light">@drawable/frameworks_res_dialog_full_holo_dark</item>
+	<item name="drawable/abs__dialog_full_holo_light">@drawable/frameworks_res_dialog_full_holo_light</item>
 	<item name="drawable/abs__ic_ab_back_holo_dark">@drawable/frameworks_res_ic_ab_back_holo_dark</item>
 	<item name="drawable/abs__ic_ab_back_holo_light">@drawable/frameworks_res_ic_ab_back_holo_light</item>
 	<item name="drawable/abs__ic_cab_done_holo_dark">@drawable/frameworks_res_ic_cab_done_holo_dark</item>
@@ -61,7 +61,7 @@
 	<item name="drawable/abs__spinner_ab_disabled_holo_light">@drawable/frameworks_res_spinner_ab_disabled_holo_light</item>
 	<item name="drawable/abs__spinner_ab_focused_holo_dark">@drawable/frameworks_res_spinner_ab_focused_holo_dark</item>
 	<item name="drawable/abs__spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_ab_focused_holo_light</item>
-	<item name="drawable/abs__spinner_ab_pressed_holo_dark">@drawable/frameworks_res_spinner_pressed_holo_dark</item>
+	<item name="drawable/abs__spinner_ab_pressed_holo_dark">@drawable/frameworks_res_spinner_ab_pressed_holo_dark</item>
 	<item name="drawable/abs__spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_ab_pressed_holo_light</item>
 	<item name="drawable/abs__tab_selected_focused_holo">@drawable/frameworks_res_tab_selected_focused_holo</item>
 	<item name="drawable/abs__tab_selected_holo">@drawable/frameworks_res_tab_selected_holo</item>

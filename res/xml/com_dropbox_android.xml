@@ -72,7 +72,7 @@
     <item name="drawable/abs__spinner_ab_disabled_holo_light">@drawable/frameworks_res_spinner_ab_disabled_holo_light</item>
     <item name="drawable/abs__spinner_ab_focused_holo_dark">@drawable/frameworks_res_spinner_ab_focused_holo_dark</item>
     <item name="drawable/abs__spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_ab_focused_holo_light</item>
-    <item name="drawable/abs__spinner_ab_pressed_holo_dark">@drawable/frameworks_res_spinner_pressed_holo_dark</item>
+    <item name="drawable/abs__spinner_ab_pressed_holo_dark">@drawable/frameworks_res_spinner_ab_pressed_holo_dark</item>
     <item name="drawable/abs__spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_ab_pressed_holo_light</item>
     <item name="drawable/abs__tab_selected_focused_holo">@drawable/frameworks_res_tab_selected_focused_holo</item>
     <item name="drawable/abs__tab_selected_holo">@drawable/frameworks_res_tab_selected_holo</item>
