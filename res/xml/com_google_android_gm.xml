@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/ic_contact_picture">@drawable/com_android_contacts_ic_contact_picture_holo_dark</item>
-    <item name="drawable/list_conversation_wide_unread_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
+    <item name="drawable/list_conversation_wide_unread_focused_holo">@drawable/gmail_list_focused_holo</item>
     <item name="drawable/list_conversation_wide_unread_normal_holo">@drawable/gmail_unread_list_unread_holo</item>
 	<item name="drawable/ic_edit_holo_dark">@drawable/gmail_ic_edit_holo_dark</item>
 	<item name="drawable/ic_email_caret_double">@drawable/gmail_ic_email_caret_double</item>
@@ -62,9 +62,9 @@
     <item name="drawable/ic_email_caret_single_important_unread">@drawable/gmail_ic_email_caret_single_important_unread</item>
     <item name="drawable/list_activated_holo">@drawable/gmail_list_activated_holo</item>
     <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/gmail_list_div_top_btm_gmail_widget_holo</item>
-    <item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/gmail_list_focused_holo</item>
     <item name="drawable/list_pressed_holo">@drawable/frameworks_res_list_pressed_holo_dark</item>
-    <item name="drawable/list_selected_holo">@drawable/frameworks_res_list_selected_holo</item>
+    <item name="drawable/list_selected_holo">@drawable/gmail_list_selected_holo</item>
     <item name="drawable/panel_undo_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/presence_away">@drawable/gmail_presence_away</item>
     <item name="drawable/super_collapsed_thread_stack_2_holo_light">@drawable/gmail_super_collapsed_thread_stack_2_holo_light</item>
@@ -74,10 +74,10 @@
     <item name="drawable/list_unread_holo">@drawable/gmail_list_unread_holo</item>
     <item name="drawable/header_convo_view_thread_bg_holo">@drawable/gmail_header_convo_view_thread_bg_holo</item>
     <item name="drawable/label_bg_holo_light">@drawable/gmail_label_bg_holo_light</item>
-    <item name="drawable/spinner_ab_default_holo_light">@drawable/frameworks_res_spinner_holo_normal</item>
+    <item name="drawable/spinner_ab_default_holo_light">@drawable/frameworks_res_spinner_ab_default_holo_dark</item>
     <item name="drawable/spinner_ab_disabled_holo_light">@drawable/frameworks_res_spinner_holo_disabled</item>
-    <item name="drawable/spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_holo_focused</item>
-    <item name="drawable/spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_holo_pressed</item>
+    <item name="drawable/spinner_ab_focused_holo_light">@drawable/frameworks_res_spinner_ab_focused_holo_dark</item>
+    <item name="drawable/spinner_ab_pressed_holo_light">@drawable/frameworks_res_spinner_ab_pressed_holo_dark</item>
     <item name="style/ComposeBodyStyle">@style/com_android_email_ComposeBodyStyle</item>
     <item name="style/ComposeEditTextView">@style/com_android_email_ComposeEditTextView</item>
     <item name="style/ComposeFieldLayout">@style/com_android_email_ComposeFieldLayout</item>

@@ -211,8 +211,8 @@
 	<item name="drawable/ic_playon_holo_light_on">@drawable/music_ic_playon_holo_light_on</item>
 	<item name="drawable/ic_q_playing">@drawable/music_ic_q_playing</item>
 	<item name="drawable/list_activated_holo">@drawable/music_list_activated_holo</item>
-	<item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
-	<item name="drawable/list_longpressed_holo">@drawable/frameworks_res_list_longpressed_holo</item>
+	<item name="drawable/list_focused_holo">@drawable/music_list_focused_holo</item>
+	<item name="drawable/list_longpressed_holo">@drawable/music_list_longpressed_holo</item>
 	<item name="drawable/list_pressed_holo_dark">@drawable/frameworks_res_list_pressed_holo_dark</item>
 	<item name="drawable/list_selector_activated_holo_dark">@drawable/music_list_selector_activated_holo_dark</item>
 	<item name="drawable/playlist_tile_drag">@drawable/music_playlist_tile_drag</item>

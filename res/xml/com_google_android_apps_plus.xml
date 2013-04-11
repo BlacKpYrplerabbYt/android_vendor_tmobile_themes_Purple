@@ -81,7 +81,7 @@
     <item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
     <item name="drawable/list_selected_holo">@drawable/frameworks_res_list_selected_holo</item>
     <item name="drawable/photo_tag_pressed">@drawable/frameworks_res_list_selected_holo</item>
-    <item name="drawable/photo_tag_selected">@drawable/frameworks_res_list_focused_holo</item>
+    <item name="drawable/photo_tag_selected">@drawable/list_focused_holo</item>
     <item name="drawable/photobackground">@drawable/com_google_android_apps_plus_photobackground</item>
     <item name="drawable/photos_date_h">@drawable/frameworks_res_popup_full_dark</item>
     <item name="drawable/photos_date_v">@drawable/frameworks_res_popup_full_dark</item>

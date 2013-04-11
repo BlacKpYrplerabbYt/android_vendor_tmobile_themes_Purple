@@ -51,7 +51,7 @@
     <item name="drawable/ic_sound_holo_dark">@drawable/phone_ic_sound_holo_dark</item>
     <item name="drawable/ic_sound_off_speakerphone_holo_dark">@drawable/phone_ic_sound_off_speakerphone_holo_dark</item>
     <item name="drawable/ic_sound_speakerphone_holo_dark">@drawable/phone_ic_sound_speakerphone_holo_dark</item>
-    <item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/phone_list_focused_holo</item>
     <item name="drawable/list_pressed_holo_dark">@drawable/frameworks_res_list_pressed_holo_dark</item>
     <item name="drawable/list_selector_disabled_holo_dark">@drawable/phone_list_selector_disabled_holo_dark</item>
     <item name="drawable/picture_busy">@drawable/phone_picture_busy</item>

@@ -21,9 +21,9 @@
     <item name="drawable/ic_email_caret_single_important_unread">@drawable/gmail_ic_email_caret_single_important_unread</item>
     <item name="drawable/list_activated_holo">@drawable/gmail_list_activated_holo</item>
     <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/gmail_list_div_top_btm_gmail_widget_holo</item>
-    <item name="drawable/list_focused_holo">@drawable/frameworks_res_list_focused_holo</item>
+    <item name="drawable/list_focused_holo">@drawable/gmail_list_focused_holo</item>
     <item name="drawable/list_pressed_holo">@drawable/frameworks_res_list_pressed_holo_dark</item>
-    <item name="drawable/list_selected_holo">@drawable/frameworks_res_list_selected_holo</item>
+    <item name="drawable/list_selected_holo">@drawable/gmail_list_selected_holo</item>
     <item name="drawable/panel_undo_holo">@drawable/com_android_systemui_recents_thumbnail_bg</item>
     <item name="drawable/presence_away">@drawable/gmail_presence_away</item>
 </resource-redirections>
