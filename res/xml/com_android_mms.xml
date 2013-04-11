@@ -86,7 +86,7 @@
 	<item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/com_android_mms_list_div_top_btm_mms_widget_holo</item>
 	<item name="drawable/list_focused_holo">@drawable/com_android_mms_list_focused_holo</item>
 	<item name="drawable/list_pressed_holo">@drawable/com_android_mms_list_pressed_holo</item>
-	<item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
+	<item name="drawable/list_pressed_holo_light">@drawable/frameworks_res_list_pressed_holo_dark</item>
 	<item name="drawable/list_read_holo">@drawable/com_android_mms_list_read_holo</item>
 	<item name="drawable/list_selected_holo">@drawable/com_android_mms_list_selected_holo</item>
 	<item name="drawable/list_selected_holo_light">@drawable/com_android_mms_list_selected_holo_light</item>

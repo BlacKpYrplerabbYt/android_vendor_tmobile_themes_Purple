@@ -119,11 +119,7 @@
     <item name="drawable/inline_tab_switcher">@drawable/frameworks_res_list_selector_holo_black</item>
     <item name="drawable/list_divider_holo_light">@drawable/frameworks_res_list_divider_holo</item>
     <item name="drawable/more">@drawable/frameworks_res_ic_menu_overflow</item>
-    <item name="drawable/more_focused">@drawable/frameworks_res_com_dropbox_android_more_focused</item>
-    <item name="drawable/more_focused">@drawable/frameworks_res_ic_menu_overflow</item>
-    <item name="drawable/more_pressed">@drawable/frameworks_res_com_dropbox_android_more_pressed</item>
     <item name="drawable/more_pressed">@drawable/frameworks_res_ic_menu_overflow</item>
-    <item name="drawable/pencil_pressed">@drawable/frameworks_res_com_dropbox_android_pencil_pressed</item>
     <item name="drawable/progress_bg_holo_light">@drawable/frameworks_res_progress_bg_holo_dark</item>
     <item name="drawable/progress_primary_holo_light">@drawable/frameworks_res_progress_primary_holo_dark</item>
     <item name="drawable/progress_secondary_holo_light">@drawable/frameworks_res_progress_secondary_holo_dark</item>
@@ -135,8 +131,6 @@
     <item name="drawable/progressbar_indeterminate_holo6">@drawable/frameworks_res_progressbar_indeterminate_holo6</item>
     <item name="drawable/progressbar_indeterminate_holo7">@drawable/frameworks_res_progressbar_indeterminate_holo7</item>
     <item name="drawable/progressbar_indeterminate_holo8">@drawable/frameworks_res_progressbar_indeterminate_holo8</item>
-    <item name="drawable/qa_cancel_pressed">@drawable/frameworks_res_com_dropbox_android_qa_cancel_pressed</item>
-    <item name="drawable/qa_clear_pressed">@drawable/frameworks_res_com_dropbox_android_qa_clear_pressed</item>
     <item name="drawable/quickaction_arrow_active">@drawable/frameworks_res_expander_close_holo_dark</item>
     <item name="drawable/quickaction_arrow_inactive">@drawable/frameworks_res_expander_open_holo_dark</item>
     <item name="drawable/quickaction_arrow_pressed">@drawable/frameworks_res_expander_open_holo_dark</item>
@@ -144,15 +138,6 @@
     <item name="drawable/quickactionsoverlay_opaque">@drawable/frameworks_res_com_dropbox_android_quickactionsoverlay_opaque</item>
     <item name="drawable/quickactionsoverlay_up">@drawable/frameworks_res_com_dropbox_android_quickactionsoverlay_up</item>
     <item name="drawable/quickactionsoverlay_up_opaque">@drawable/frameworks_res_com_dropbox_android_quickactionsoverlay_up_opaque</item>
-    <item name="drawable/remove_focused">@drawable/frameworks_res_com_dropbox_android_remove_focused</item>
-    <item name="drawable/remove_pressed">@drawable/frameworks_res_com_dropbox_android_remove_pressed</item>
-    <item name="drawable/share_focused">@drawable/frameworks_res_com_dropbox_android_share_focused</item>
-    <item name="drawable/share_pressed">@drawable/frameworks_res_com_dropbox_android_share_pressed</item>
-    <item name="drawable/silver_bottom_bar">@drawable/frameworks_res_com_dropbox_android_silver_bottom_bar</item>
-    <item name="drawable/star_empty_focused">@drawable/frameworks_res_com_dropbox_android_star_empty_focused</item>
-    <item name="drawable/star_empty_pressed">@drawable/frameworks_res_com_dropbox_android_star_empty_pressed</item>
-    <item name="drawable/star_full_focused">@drawable/frameworks_res_com_dropbox_android_star_full_focused</item>
-    <item name="drawable/star_full_pressed">@drawable/frameworks_res_com_dropbox_android_star_full_pressed</item>
     <item name="drawable/tab_focused_holo">@drawable/frameworks_res_tab_focused_holo</item>
     <item name="drawable/tab_focused_holo">@drawable/frameworks_res_tab_unselected_holo</item>
     <item name="drawable/tab_pressed_holo_dark">@drawable/frameworks_res_tab_pressed_holo_dark</item>

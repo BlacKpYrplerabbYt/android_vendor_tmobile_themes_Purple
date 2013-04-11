@@ -95,6 +95,6 @@
     <item name="drawable/ic_zoom_slider">@drawable/camera_ic_zoom_slider</item>
     <item name="drawable/ic_zoom_slider_pressed">@drawable/camera_ic_zoom_slider_pressed</item>
     <item name="drawable/list_divider">@drawable/camera_list_divider</item>
-    <item name="drawable/list_pressed_holo_light">@drawable/camera_list_pressed_holo_light</item>
+    <item name="drawable/list_pressed_holo_light">@drawable/frameworks_res_list_pressed_holo_dark</item>
     <item name="drawable/toast_frame_holo">@drawable/camera_toast_frame_holo</item>
 </resource-redirections>
