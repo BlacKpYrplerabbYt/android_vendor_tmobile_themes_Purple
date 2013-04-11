@@ -68,10 +68,10 @@
 	<item name="drawable/ic_tab_timer_activated">@drawable/com_android_deskclock_ic_tab_timer_activated</item>
 	<item name="drawable/ic_tab_timer_normal">@drawable/com_android_deskclock_ic_tab_timer_normal</item>
 	<item name="drawable/ic_x_normal">@drawable/com_android_deskclock_ic_x_normal</item>
-	<item name="drawable/list_activated_holo">@drawable/com_android_deskclock_list_activated_holo</item>
-	<item name="drawable/list_selector_background_pressed">@drawable/com_android_deskclock_list_selector_background_pressed</item>
+	<item name="drawable/list_activated_holo">@drawable/frameworks_res_list_activated_holo</item>
+	<item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
 	<item name="drawable/toggle_underline_activated">@drawable/com_android_deskclock_toggle_underline_activated</item>
-	<item name="drawable/deskclock_list_activated_holo">@drawable/deskclock_list_activated_holo</item>
+	<item name="drawable/deskclock_list_activated_holo">@drawable/frameworks_res_list_activated_holo</item>
 	<!-- colors -->
 	<item name="color/clock_red">@color/arcee_maincolor_bright</item>
 	<item name="color/clock_blue">@color/arcee_maincolor</item>
