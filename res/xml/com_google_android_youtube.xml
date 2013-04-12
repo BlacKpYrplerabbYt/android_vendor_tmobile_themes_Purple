@@ -160,8 +160,8 @@
 	<item name="drawable/tv_control_rewind_select">@drawable/com_google_android_youtube_tv_control_rewind_select</item>
 	<item name="drawable/tv_control_thumbsdown_select">@drawable/com_google_android_youtube_tv_control_thumbsdown_select</item>
 	<item name="drawable/tv_control_thumbsup_select">@drawable/com_google_android_youtube_tv_control_thumbsup_select</item>
-    <item name="drawable/scrubber_control_disabled_focused_holo">@drawable/music_scrubber_control_disabled_focused_holo</item>
-    <item name="drawable/scrubber_control_disabled_holo">@drawable/music_scrubber_control_disabled_holo</item>
-    <item name="drawable/scrubber_control_normal_holo">@drawable/music_scrubber_control_normal_holo</item>
-    <item name="drawable/scrubber_control_pressed_holo">@drawable/music_scrubber_control_pressed_holo</item>
+    <item name="drawable/scrubber_control_disabled_focused_holo">@drawable/frameworks_res_scrubber_control_disabled_focused_holo</item>
+    <item name="drawable/scrubber_control_disabled_holo">@drawable/frameworks_res_scrubber_control_disabled_holo</item>
+    <item name="drawable/scrubber_control_normal_holo">@drawable/frameworks_res_scrubber_control_normal_holo</item>
+    <item name="drawable/scrubber_control_pressed_holo">@drawable/frameworks_res_scrubber_control_pressed_holo</item>
 </resource-redirections>

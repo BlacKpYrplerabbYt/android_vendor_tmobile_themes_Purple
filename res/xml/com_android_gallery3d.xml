@@ -18,7 +18,7 @@
     <item name="drawable/overscroll_edge">@drawable/gallery2_overscroll_edge</item>
     <item name="drawable/overscroll_glow">@drawable/gallery2_overscroll_glow</item>
     <item name="drawable/preview">@drawable/gallery2_preview</item>
-    <item name="drawable/scrubber_knob">@drawable/gallery2_scrubber_knob</item>
+    <item name="drawable/scrubber_knob">@drawable/frameworks_res_scrubber_control_pressed_holo</item>
     <item name="drawable/spinner_76_inner_holo">@drawable/gallery2_spinner_76_inner_holo</item>
     <item name="drawable/spinner_76_outer_holo">@drawable/gallery2_spinner_76_outer_holo</item>
     <item name="drawable/thumb_selected">@drawable/gallery2_thumb_selected</item>

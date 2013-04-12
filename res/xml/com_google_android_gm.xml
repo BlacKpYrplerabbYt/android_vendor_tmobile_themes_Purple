@@ -112,7 +112,7 @@
     <item name="color/faded_activated_conversation_header">@color/black</item>
     <item name="color/faded_conversation_header">@color/black</item>
     <item name="color/folder_disabled_drop_target_text_color">#ff999999</item>
-    <item name="color/folder_list_background_color">@color/black</item>
+    <item name="color/folder_list_background_color">@color/darker_gray</item>
     <item name="color/folder_list_heading_text_color">@color/arcee_maincolor</item>
     <item name="color/folder_name_color_primary_invertible">@color/primary_text_holo_light</item>
     <item name="color/gray_text_color">@color/light_gray</item>
