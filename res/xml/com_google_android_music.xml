@@ -199,7 +199,9 @@
     <item name="color/action_bar_selected_bg">@color/action_bar_selected_bg</item>
 	<item name="drawable/ab_bottom_transparent_dark_holo">@drawable/music_ab_bottom_transparent_dark_holo</item>
 	<item name="drawable/btn_download_cache_holo_dark">@drawable/music_btn_download_cache_holo_dark</item>
+	<item name="drawable/music_btn_download_sideloaded_holo_dark">@drawable/music_btn_download_cache_holo_dark</item>
 	<item name="drawable/btn_download_pinned_holo_dark">@drawable/music_btn_download_pinned_holo_dark</item>
+	<item name="drawable/btn_download_progress_full_holo_dark">@drawable/music_btn_download_pinned_holo_dark</item>
 	<item name="drawable/btn_rating_minus_on_jb_dark">@drawable/music_btn_rating_minus_on_jb_dark</item>
 	<item name="drawable/btn_rating_plus_on_jb_dark">@drawable/music_btn_rating_plus_on_jb_dark</item>
 	<item name="drawable/btn_repeat_all_on_jb_dark">@drawable/music_btn_repeat_all_on_jb_dark</item>

@@ -33,7 +33,7 @@
     <item name="color/write_review_bar_bg">@color/black</item>
     <item name="color/write_review_button_highlighted">@color/arcee_maincolor</item>
     <item name="drawable/ab_solid_light_holo">@drawable/ab_solid_dark_holo</item>
-    <item name="drawable/badge_red">@drawable/appwidget_bg_holo</item>
+    <item name="drawable/badge_red">@drawable/appwidget_bg</item>
     <item name="drawable/below_tooltip">@drawable/com_google_android_apps_plus_below_tooltip</item>
     <item name="drawable/bg_blue_tile">@drawable/striped_bg_gray</item>
     <item name="drawable/bg_green_tile">@drawable/striped_bg_gray</item>
