@@ -96,7 +96,7 @@
     <item name="color/attachment_bg_color">@color/transparent</item>
     <item name="color/attachment_image_background_color">@color/transparent</item>
     <item name="color/attachment_tile_shadow_box_color">#7f000000</item>
-    <item name="color/attachment_tile_subtitle_color">@color/theme_secondary_dark</item>
+    <item name="color/attachment_tile_subtitle_color">@color/theme_secondary_offwte</item>
     <item name="color/compose_attachment_title_background_color">@color/black</item>
     <item name="color/compose_background_color">@color/black</item>
     <item name="color/compose_label_text">@color/arcee_maincolor</item>
@@ -107,7 +107,7 @@
     <item name="color/conversation_list_background_color">@color/black</item>
     <item name="color/date_text_color">@color/arcee_maincolor</item>
     <item name="color/default_folder_background_color">@color/black</item>
-    <item name="color/default_folder_foreground_color">@color/light_gray</item>
+    <item name="color/default_folder_foreground_color">@color/arcee_maincolor</item>
     <item name="color/drafts">#ffaa0000</item>
     <item name="color/faded_activated_conversation_header">@color/black</item>
     <item name="color/faded_conversation_header">@color/black</item>

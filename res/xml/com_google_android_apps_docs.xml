@@ -17,7 +17,6 @@
     <item name="drawable/action_refresh">@drawable/ic_menu_refresh</item>
     <item name="drawable/ic_star_off">@drawable/com_android_vending_ic_rate_star_market_off</item>
     <item name="drawable/ic_star_on">@drawable/com_android_vending_ic_rate_star_market_on</item>
-    <item name="drawable/launcher_drive_icon">@mipmap/launcher_drive_icon</item>
     <item name="drawable/widget_action_normal">@drawable/apps_customize_bg</item>
     <item name="drawable/widget_background">@drawable/appwidget_bg_holo</item>
     <item name="drawable/widget_center_background_focus">@drawable/list_pressed_holo</item>
