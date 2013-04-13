@@ -4,10 +4,10 @@
     <item name="style/SystemTheme">@style/com_google_android_youtube_SystemTheme</item>
     <item name="color/black">@color/light_gray</item>
     <item name="color/contents_text">@color/light_gray</item>
-    <item name="color/contextual_menu_bottom">@color/verylight_gray</item>
+    <item name="color/contextual_menu_bottom">@color/lighter_gray</item>
     <item name="color/dialog_background">@color/black</item>
     <item name="color/dialog_font">@color/white</item>
-    <item name="color/event_font">@color/verylight_gray</item>
+    <item name="color/event_font">@color/lighter_gray</item>
     <item name="color/grey">@color/theme_secondary_dark</item>
     <item name="color/guide_gradient">@color/black</item>
     <item name="color/header_text">@color/primary_text_holo_light</item>
@@ -21,6 +21,9 @@
     <item name="color/primary_contrast_text">@color/primary_text_holo_light</item>
     <item name="color/primary_font">@color/white</item>
     <item name="color/primary_text">@color/primary_text_holo_light</item>
+    <item name="color/red">@color/arcee_maincolor</item>
+    <item name="color/dark_red">@color/arcee_maincolor</item>
+    <item name="color/result_points">@color/pane_background</item>
     <item name="color/s2_primary_text">@color/white</item>
     <item name="color/sbc_header_text">@color/white</item>
     <item name="color/secondary_contrast_font">@color/white</item>
@@ -33,7 +36,8 @@
     <item name="color/undefined_font">@color/light_gray</item>
     <item name="color/video_item_duration_background">@color/black</item>
     <item name="color/video_item_duration_font">@color/white</item>
-    <item name="color/watch_secondary_color">@color/verylight_gray</item>
+    <item name="color/viewfinder_laser">@color/arcee_maincolor</item>
+    <item name="color/watch_secondary_color">@color/lighter_gray</item>
     <item name="color/white">@color/white</item>
     <item name="color/white_text">@color/white</item>
     <item name="color/viewfinder_laser">@color/arcee_maincolor</item>

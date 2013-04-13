@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="darker_gray">#ffaaaaaa</color>
 	<color name="white">#ffffffff</color>
 	<color name="black">#ff000000</color>
     <color name="gray">#ff888888</color>
+    <color name="light_gray">#ffbbbbbb</color>
+	<color name="lighter_gray">#ffdddddd</color>
+    <color name="dark_gray">#ff555555</color>
+    <color name="darker_gray">#ff222222</color>
 	<color name="transparent">#00000000</color>
 	<color name="background_dark">#ff000000</color>
 	<color name="background_light">#ffffffff</color>
@@ -33,8 +36,6 @@
 	<color name="link_text_dark">#ff8c00ff</color>
 	<color name="link_text_light">#ff8c00ff</color>
 	<color name="suggestion_highlight_text">#ff8c00ff</color>
-    <color name="light_gray">#ffbbbbbb</color>
-	<color name="lighter_gray">#ffdddddd</color>
 	<color name="perms_dangerous_grp_color">#ff8c00ff</color>
 	<color name="perms_dangerous_perm_color">#ff8c00ff</color>
 	<color name="shadow">#cc222222</color>
@@ -152,7 +153,6 @@
 	<color name="con_photo_container">@color/theme_secondary_disabled</color>
 	<color name="con_social_widget_bg">@color/theme_primary_trans</color>
 	<color name="con_contact_detail_fragment">@color/theme_primary</color>
-	
 	<color name="theme_primary">#ff000000</color>
 	<color name="theme_secondary">#ffffffff </color>
 	<color name="theme_secondary_offwte">#ffdddddd</color>

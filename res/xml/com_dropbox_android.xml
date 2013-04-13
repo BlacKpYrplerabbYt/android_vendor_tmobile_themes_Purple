@@ -2,7 +2,7 @@
 <resource-redirections>
     <item name="color/actionBarBackground">@color/black</item>
     <item name="color/barLight">@color/black</item>
-    <item name="color/darkBlueText">@color/lighter_gray</item>
+    <item name="color/darkBlueText">@color/arcee_maincolor</item>
     <item name="color/filelist_text_name">@color/com_dropbox_android_filelist_text_name</item>
     <item name="color/filelistBackground">@color/black</item>
     <item name="color/filelistItemPressed">@color/com_android_mms_unread_bgcolor</item>

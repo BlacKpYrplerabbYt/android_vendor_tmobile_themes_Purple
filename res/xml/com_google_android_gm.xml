@@ -115,7 +115,7 @@
     <item name="color/folder_list_background_color">@color/darker_gray</item>
     <item name="color/folder_list_heading_text_color">@color/arcee_maincolor</item>
     <item name="color/folder_name_color_primary_invertible">@color/primary_text_holo_light</item>
-    <item name="color/gray_text_color">@color/light_gray</item>
+    <item name="color/gray_text_color">@color/gray</item>
     <item name="color/hierarchical_folder_parent_color">@color/arcee_maincolor</item>
     <item name="color/high_spam_color">#ffcc0000</item>
     <item name="color/holo_blue_light">@color/arcee_maincolor</item>
