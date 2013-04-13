@@ -1521,5 +1521,15 @@
     <item name="color/holo_blue_bright">@color/arcee_maincolor_bright</item>
     <item name="color/highlighted_text_holo_dark">@color/arcee_maincolor</item>
     <item name="color/highlighted_text_holo_light">@color/arcee_maincolor</item>
-	</resource-redirections>
+	<item name="color/holo_blue_bright">@color/holo_blue_bright</item>
+    <item name="color/holo_blue_dark">@color/holo_blue_dark</item>
+    <item name="color/holo_blue_light">@color/holo_blue_light</item>
+    <item name="color/holo_red_light">@color/holo_red_light</item>
+    <item name="color/keyguard_avatar_frame_pressed_color">@color/holo_blue_light</item>
+    <item name="color/perms_dangerous_grp_color">@color/holo_blue_light</item>
+    <item name="color/perms_dangerous_perm_color">@color/holo_blue_light</item>
+    <item name="color/suggestion_highlight_text">@color/black</item>
+    <item name="color/black">@color/black</item>
+    <item name="color/gray">@color/gray</item>
+</resource-redirections>
 
