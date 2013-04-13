@@ -116,7 +116,7 @@
     <item name="drawable/folder_name_bar_bg">@color/black</item>
     <item name="drawable/ic_ab_add_to_album_light_focused">@drawable/frameworks_res_com_dropbox_android_ic_ab_add_to_album_light_focused</item>
     <item name="drawable/ic_ab_add_to_album_light_pressed">@drawable/frameworks_res_com_dropbox_android_ic_ab_add_to_album_light_pressed</item>
-    <item name="drawable/inline_tab_switcher">@drawable/frameworks_res_list_selector_holo_black</item>
+    <item name="drawable/inline_tab_switcher">@drawable/list_selector_holo_black</item>
     <item name="drawable/list_divider_holo_light">@drawable/frameworks_res_list_divider_holo</item>
     <item name="drawable/more">@drawable/frameworks_res_ic_menu_overflow</item>
     <item name="drawable/more_pressed">@drawable/frameworks_res_ic_menu_overflow</item>

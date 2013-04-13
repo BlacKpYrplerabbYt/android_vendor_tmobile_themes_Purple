@@ -1289,7 +1289,7 @@
     <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
     <item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
     <item name="drawable/background_holo_light">@drawable/background_holo_light</item>
-    <item name="drawable/cm_background_holo_dark">@drawable/cm_background_holo_dark</item>
+    <item name="drawable/cm_background_holo_dark">@drawable/background_holo_dark</item>
     <item name="color/holo_blue_light">@color/arcee_maincolor</item>
     <item name="color/holo_blue_dark">@color/arcee_maincolor</item>
     <item name="color/holo_blue_bright">@color/arcee_maincolor</item>
@@ -1410,4 +1410,7 @@
 	<item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
 	<item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
 	<item name="drawable/sym_call_incoming">@drawable/frameworks_res_sym_call_incoming</item>
+    <item name="drawable/butter_bar_background">@drawable/list_selector_holo_black</item>
+    <item name="drawable/highlight_overlay">@drawable/list_selector_holo_dark</item>
+    <item name="drawable/my_apps_account_selector">@drawable/list_selector_holo_black</item>
 </resource-redirections>

@@ -548,7 +548,7 @@
     <item name="drawable/clock_dial">@drawable/frameworks_res_clock_dial</item>
     <item name="drawable/clock_hand_hour">@drawable/frameworks_res_clock_hand_hour</item>
     <item name="drawable/clock_hand_minute">@drawable/frameworks_res_clock_hand_minute</item>
-    <item name="drawable/cm_background_holo_dark">@drawable/cm_background_holo_dark</item>
+    <item name="drawable/cm_background_holo_dark">@drawable/background_holo_dark</item>
     <item name="drawable/code_lock_bottom">@drawable/frameworks_res_code_lock_bottom</item>
     <item name="drawable/code_lock_left">@drawable/frameworks_res_code_lock_left</item>
     <item name="drawable/code_lock_top">@drawable/frameworks_res_code_lock_top</item>

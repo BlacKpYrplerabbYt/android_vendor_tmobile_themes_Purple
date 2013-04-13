@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/bkgnd">@drawable/bkgnd</item>
+	<item name="drawable/list_selector_background">@drawable/list_selector_holo_dark</item>
     <item name="drawable/ic_album_default_bg_blue">@drawable/ic_album_default_bg_blue</item>
     <item name="drawable/ab_bottom_transparent_dark_holo">@drawable/music_ab_bottom_transparent_dark_holo</item>
     <item name="drawable/ab_transparent_dark_holo">@drawable/music_ab_transparent_dark_holo</item>

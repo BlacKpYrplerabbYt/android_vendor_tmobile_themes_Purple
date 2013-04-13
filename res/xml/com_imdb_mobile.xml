@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/fullscreen">@style//IMDb_fullscreen</item>
+    <item name="style/IMDbTheme.grid">@style/IMDbTheme.grid</item>
+    <item name="style/IMDbTheme.text">@style/IMDbTheme.text</item>
+    <item name="style/IMDbTheme.text.body">@style/IMDbTheme.text.body</item>
+    <item name="style/IMDbTheme.text.H0">@style/IMDbTheme.text.H0</item>
+    <item name="style/IMDbTheme.text.H00">@style/IMDbTheme.text.H00</item>
+    <item name="style/IMDbTheme.text.H1">@style/IMDbTheme.text.H0</item>
+    <item name="style/IMDbTheme.text.H2">@style/IMDbTheme.text</item>
+    <item name="style/IMDbTheme.text.medium">@style/IMDbTheme.text</item>
+    <item name="style/IMDbTheme.text.small">@style/IMDbTheme.text</item>
+    <item name="style/IMDbTheme.text.smallPref">@style/IMDbTheme.text</item>
+    <item name="style/IMDbTheme.text.sub">@style/IMDbTheme.text.sub</item>
+    <item name="style/Sherlock.__Theme.Light">@style//IMDb_Sherlock.__Theme.Light</item>
+    <item name="color/buttonNormalTextColor">@color/white</item>
+    <item name="color/dialogFieldTextColor">@color/white</item>
+    <item name="color/h00TextColor">@color/white</item>
+    <item name="color/h0TextColor">@color/white</item>
+    <item name="color/h2TextColor">@color/white</item>
+    <item name="color/loginBannerBackground">@color/black</item>
+    <item name="color/primaryBackgroundColor">@color/black</item>
+    <item name="color/primaryTextColor">@color/white</item>
+    <item name="color/ratingValueTextColor">@color/white</item>
+    <item name="color/standoutButtonTextColor">@color/white</item>
+    <item name="color/text_highlight">@color/holo_blue_light</item>
+    <item name="color/titleBarTextColor">@color/holo_blue_light</item>
+    <item name="color/titleTextColor">@color/holo_blue_light</item>
+    <item name="drawable/action_bar_background">@color/black</item>
+    <item name="drawable/action_panel_bg">@color/black</item>
+    <item name="drawable/background_selector">@drawable/list_selector_holo_dark</item>
+    <item name="drawable/dialog_titlebar_background">@drawable/background_holo_dark</item>
+    <item name="drawable/titlebar_background">@color/black</item>
+    <item name="drawable/uicontrol_dropdown_default">@drawable/frameworks_res_spinner_ab_default_holo_dark</item>
+    <item name="drawable/uicontrol_dropdown_pressed">@drawable/frameworks_res_spinner_ab_pressed_holo_light</item>
+</resource-redirections>
