@@ -1492,9 +1492,26 @@
     <item name="drawable/vpn_connected">@drawable/frameworks_res_vpn_connected</item>
     <item name="drawable/vpn_disconnected">@drawable/frameworks_res_vpn_disconnected</item>
     <item name="drawable/widget_edittext_dark">@drawable/widget_edittext_dark</item>
-    <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>	<!-- styles -->
+    <item name="drawable/zoom_plate">@drawable/frameworks_res_zoom_plate</item>
+	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
-<!-- colors -->
+    <item name="style/TextAppearance.Holo.DialogWindowTitle">@style/TextAppearance.Holo.DialogWindowTitle</item>
+    <item name="style/TextAppearance.Holo.Light.Widget.DropDownHint">@style/TextAppearance.Holo.Widget.DropDownHint</item>
+    <item name="style/TextAppearance.Holo.Light.Widget.DropDownItem">@style/TextAppearance.Holo.Widget.DropDownItem</item>
+    <item name="style/TextAppearance.Holo.Light.Widget.TextView.SpinnerItem">@style/TextAppearance.Holo.Widget.TextView.SpinnerItem</item>
+    <item name="style/TextAppearance.Holo.Widget.DropDownHint">@style/TextAppearance.Holo.Widget.DropDownHint</item>
+    <item name="style/TextAppearance.Holo.Widget.DropDownItem">@style/TextAppearance.Holo.Widget.DropDownItem</item>
+    <item name="style/TextAppearance.Holo.Widget.EditText">@style/TextAppearance.Holo.Widget.EditText</item>
+    <item name="style/TextAppearance.Holo.Widget.PopupMenu">@style/TextAppearance.Holo.Widget.PopupMenu</item>
+    <item name="style/TextAppearance.Holo.Widget.TextView.PopupMenu">@style/TextAppearance.Widget.PopupMenu</item>
+    <item name="style/TextAppearance.Holo.Widget.TextView.SpinnerItem">@style/TextAppearance.Holo.Widget.TextView.SpinnerItem</item>
+    <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
+    <item name="style/TextAppearance.Widget.DropDownItem">@style/TextAppearance.Widget.DropDownItem</item>
+    <item name="style/Widget.CompoundButton">@style/Widget.CompoundButton</item>
+    <item name="style/Widget.Holo.Light.AutoCompleteTextView">@style/Widget.Holo.Light.AutoCompleteTextView</item>
+    <item name="style/Theme.Holo.Light">@style/Theme.Holo.Light</item>
+    <item name="style/Theme.Holo.Light.Dialog">@style/Theme.Holo.Light.Dialog</item>
+	<!-- colors -->
 	<item name="color/keyguard_avatar_frame_pressed_color">@color/holo_blue_light</item>
 	<item name="color/primary_text_holo_light">@color/holo_blue_dark</item>
 	<item name="color/secondary_text_holo_light">@color/holo_blue_dark</item>

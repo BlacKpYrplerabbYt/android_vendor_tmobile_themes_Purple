@@ -181,8 +181,8 @@
     <item name="drawable/spinner_ab_focused_holo_dark">@drawable/frameworks_res_spinner_ab_pressed_holo_dark</item>
     <item name="drawable/tab_bottom_holo">@drawable/music_tab_bottom_holo</item>
     <item name="drawable/tab_pressed_holo">@drawable/music_tab_pressed_holo</item>
-    <item name="drawable/tab_selected_focused_holo">@drawable/frameworks_res_selected_focused_holo</item>
-    <item name="drawable/tab_selected_holo">@drawable/frameworks_res_selected_holo</item>
+    <item name="drawable/tab_selected_focused_holo">@drawable/frameworks_res_tab_selected_focused_holo</item>
+    <item name="drawable/tab_selected_holo">@drawable/frameworks_res_tab_selected_holo</item>
     <item name="drawable/tab_selected_pressed_focused_holo">@drawable/frameworks_res_tab_selected_pressed_focused_holo</item>
     <item name="drawable/tab_selected_pressed_holo">@drawable/frameworks_res_tab_selected_pressed_holo</item>
     <item name="drawable/tab_unselected_focused_holo">@drawable/frameworks_res_tab_unselected_focused_holo</item>

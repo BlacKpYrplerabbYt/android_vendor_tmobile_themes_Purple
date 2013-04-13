@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="pYrplerabbYt" parent="@android:style/Theme" />
+    <style name="Widget.CompoundButton" parent="@*android:style/Widget.CompoundButton">
+        <item name="android:textColor">@color/light_gray</item>
+    </style>
+    <style name="TextAppearance.Widget.DropDownHint" parent="@*android:style/TextAppearance.Widget">
+        <item name="android:textColor">@color/light_gray</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.DropDownHint" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/lighter_gray</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.DropDownItem" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/lighter_gray</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.TextView.SpinnerItem" parent="@*android:style/TextAppearance.Holo.Widget.TextView">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.EditText" parent="@*android:style/TextAppearance.Holo.Widget">
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:textColorHint">@color/gray</item>
+    </style>
+    <style name="TextAppearance.Holo.Widget.PopupMenu" parent="@*android:style/TextAppearance.Holo.Widget.PopupMenu">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+    <style name="TextAppearance.Holo.DialogWindowTitle" parent="@*android:style/TextAppearance.Holo">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/lighter_gray</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Battery" parent="@*android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/holo_blue_light</item>
+    </style>
     <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
         <item name="android:textColor">#ffffffff</item>
     </style>
@@ -47,7 +78,6 @@
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
-	
 	<!-- contacts styles -->
     <style name="DialtactsTheme1" parent="android:Theme.Holo">
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
