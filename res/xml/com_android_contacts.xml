@@ -89,7 +89,7 @@
 	<item name="drawable/ic_menu_compose_holo_dark">@drawable/com_android_contacts_ic_menu_compose_holo_dark</item>
 	<item name="drawable/ic_menu_contacts_holo_light">@drawable/com_android_contacts_ic_menu_contacts_holo_light</item>
 	<item name="drawable/ic_menu_display_all_holo_light">@drawable/com_android_contacts_ic_menu_display_all_holo_light</item>
-	<item name="drawable/ic_menu_done_holo_dark">@drawable/com_android_contacts_ic_menu_done_holo_dark</item>
+	<item name="drawable/ic_menu_done_holo_dark">@drawable/com_android_mms_ic_menu_done_holo_dark</item>
 	<item name="drawable/ic_menu_expander_maximized_holo_light">@drawable/com_android_contacts_ic_menu_expander_maximized_holo_light</item>
 	<item name="drawable/ic_menu_expander_minimized_holo_light">@drawable/com_android_contacts_ic_menu_expander_minimized_holo_light</item>
 	<item name="drawable/ic_menu_import_export_holo_light">@drawable/com_android_contacts_ic_menu_import_export_holo_light</item>

@@ -51,8 +51,8 @@
     <item name="drawable/orca_composer_button_blue_pressed">@drawable/com_facebook_orca_orca_button_blue_pressed</item>
     <item name="drawable/orca_composer_divider_horizontal">@drawable/frameworks_res_list_divider_holo</item>
     <item name="drawable/orca_composer_divider_vertical">@drawable/frameworks_res_list_divider_holo</item>
-    <item name="drawable/orca_composer_popup_active_normal">@drawable/ic_menu_cancel</item>
-    <item name="drawable/orca_composer_popup_active_pressed">@drawable/ic_menu_cancel</item>
+    <item name="drawable/orca_composer_popup_active_normal">@drawable/com_android_contacts_ic_menu_remove_field_holo_light</item>
+    <item name="drawable/orca_composer_popup_active_pressed">@drawable/com_android_contacts_ic_menu_remove_field_holo_light</item>
     <item name="drawable/orca_composer_popup_normal">@drawable/ic_menu_emoticons</item>
     <item name="drawable/orca_composer_popup_pressed">@drawable/ic_menu_emoticons</item>
     <item name="drawable/orca_composer_tab">@drawable/com_facebook_orca_orca_composer_tab</item>

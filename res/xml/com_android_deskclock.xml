@@ -43,7 +43,7 @@
 	<item name="drawable/ic_lockscreen_wakeup_normal">@drawable/com_android_deskclock_ic_lockscreen_wakeup_normal</item>
 	<item name="drawable/ic_lock_idle_alarm_saver">@drawable/com_android_deskclock_ic_lock_idle_alarm_saver</item>
 	<item name="drawable/ic_menu_add">@drawable/com_android_deskclock_ic_menu_add</item>
-	<item name="drawable/ic_menu_done_holo_dark">@drawable/com_android_deskclock_ic_menu_done_holo_dark</item>
+	<item name="drawable/ic_menu_done_holo_dark">@drawable/com_android_mms_ic_menu_done_holo_dark</item>
 	<item name="drawable/ic_menu_revert_holo_dark">@drawable/com_android_deskclock_ic_menu_revert_holo_dark</item>
 	<item name="drawable/ic_notify_lap">@drawable/com_android_deskclock_ic_notify_lap</item>
 	<item name="drawable/ic_notify_reset">@drawable/com_android_deskclock_ic_notify_reset</item>

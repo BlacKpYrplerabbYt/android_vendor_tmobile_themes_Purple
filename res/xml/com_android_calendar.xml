@@ -35,10 +35,10 @@
     <item name="drawable/header_bg_cal_widget_focused_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
     <item name="drawable/header_bg_cal_widget_normal_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
     <item name="drawable/header_bg_cal_widget_pressed_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
-    <item name="drawable/ic_contact_picture">@drawable/ic_contact_picture</item>
-    <item name="drawable/ic_menu_cancel_holo_light">@drawable/ic_menu_cancel</item>
-    <item name="drawable/ic_menu_done_holo_light">@drawable/ic_menu_done</item>
-    <item name="drawable/ic_menu_remove_field_holo_light">@drawable/ic_menu_cancel</item>
+    <item name="drawable/ic_contact_picture">@drawable/com_android_mms_ic_contact_picture</item>
+    <item name="drawable/ic_menu_cancel_holo_light">@drawable/com_android_contacts_ic_menu_remove_field_holo_light</item>
+    <item name="drawable/ic_menu_done_holo_light">@drawable/com_android_mms_ic_menu_done_holo_dark</item>
+    <item name="drawable/ic_menu_remove_field_holo_light">@drawable/com_android_contacts_ic_menu_remove_field_holo_light</item>
     <item name="drawable/ic_menu_today_holo_light">@drawable/com_android_calendar_ic_menu_today_holo_light</item>
     <item name="drawable/ic_menu_today_no_date_holo_light">@drawable/com_android_calendar_ic_menu_today_no_date_holo_light</item>
 </resource-redirections>
