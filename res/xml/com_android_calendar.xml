@@ -28,9 +28,9 @@
     <item name="drawable/calname_unselected_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_pressed_holo_light</item>
     <item name="drawable/calname_unselected_underselect_holo_light">@drawable/com_android_calendar_calname_unselected_underselect_holo_light</item>
     <item name="drawable/calname_unselected_underselect_pressed_holo_light">@drawable/com_android_calendar_calname_unselected_underselect_pressed_holo_light</item>
-    <item name="drawable/chip_background">@drawable/chip_background</item>
-    <item name="drawable/chip_background_invalid">@drawable/chip_background</item>
-    <item name="drawable/chip_background_selected">@drawable/chip_background</item>
+    <item name="drawable/chip_background">@drawable/gmail_chip_background</item>
+    <item name="drawable/chip_background_invalid">@drawable/gmail_chip_background</item>
+    <item name="drawable/chip_background_selected">@drawable/gmail_chip_background</item>
     <item name="drawable/dayline_minical_holo_light">@drawable/com_android_calendar_dayline_minical_holo_light</item>
     <item name="drawable/header_bg_cal_widget_focused_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
     <item name="drawable/header_bg_cal_widget_normal_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
